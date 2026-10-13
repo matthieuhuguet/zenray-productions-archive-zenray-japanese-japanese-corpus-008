@@ -1,0 +1,4754 @@
+{
+ "version": 2,
+ "source": "Memory/Japanese/Japanese1.md",
+ "corpusLignes": 7024,
+ "resume": {
+  "tranches": 127,
+  "leconsDistinctes": 109,
+  "lignesVocabulaire": 359,
+  "motsDistincts": 346,
+  "pointsGrammaire": 29,
+  "fichesKanji": 137
+ },
+ "jauge": {
+  "mesureLe": "2026-08-16",
+  "niveaux": [
+   {
+    "code": "N5",
+    "enseigne": 96,
+    "enseigneApprox": false,
+    "consolide": 55,
+    "consolideApprox": true,
+    "compteurs": [
+     {
+      "cle": "kanji",
+      "fait": 100,
+      "cible": 100,
+      "approx": false
+     },
+     {
+      "cle": "grammaire",
+      "fait": 38,
+      "cible": 38,
+      "approx": false
+     },
+     {
+      "cle": "vocabulaire",
+      "fait": 700,
+      "cible": 800,
+      "approx": true
+     }
+    ]
+   },
+   {
+    "code": "N4",
+    "enseigne": 22,
+    "enseigneApprox": false,
+    "consolide": null,
+    "compteurs": [
+     {
+      "cle": "kanji",
+      "fait": 37,
+      "cible": 200,
+      "approx": false
+     },
+     {
+      "cle": "grammaire",
+      "fait": 9,
+      "cible": 42,
+      "approx": true
+     },
+     {
+      "cle": "vocabulaire",
+      "fait": 700,
+      "cible": 1500,
+      "approx": true
+     }
+    ]
+   },
+   {
+    "code": "N3",
+    "enseigne": 2,
+    "enseigneApprox": true,
+    "consolide": null,
+    "compteurs": [
+     {
+      "cle": "kanji",
+      "fait": null,
+      "cible": null,
+      "approx": false
+     },
+     {
+      "cle": "grammaire",
+      "fait": null,
+      "cible": null,
+      "approx": false
+     },
+     {
+      "cle": "vocabulaire",
+      "fait": null,
+      "cible": null,
+      "approx": false
+     }
+    ]
+   },
+   {
+    "code": "N2",
+    "enseigne": 0,
+    "enseigneApprox": false,
+    "consolide": null,
+    "compteurs": [
+     {
+      "cle": "kanji",
+      "fait": null,
+      "cible": null,
+      "approx": false
+     },
+     {
+      "cle": "grammaire",
+      "fait": null,
+      "cible": null,
+      "approx": false
+     },
+     {
+      "cle": "vocabulaire",
+      "fait": null,
+      "cible": null,
+      "approx": false
+     }
+    ]
+   },
+   {
+    "code": "N1",
+    "enseigne": 0,
+    "enseigneApprox": false,
+    "consolide": null,
+    "compteurs": [
+     {
+      "cle": "kanji",
+      "fait": null,
+      "cible": null,
+      "approx": false
+     },
+     {
+      "cle": "grammaire",
+      "fait": null,
+      "cible": null,
+      "approx": false
+     },
+     {
+      "cle": "vocabulaire",
+      "fait": null,
+      "cible": null,
+      "approx": false
+     }
+    ],
+    "deduit": true
+   }
+  ]
+ },
+ "lecons": [
+  {
+   "id": "L1",
+   "numero": 1,
+   "titre": "L1",
+   "date": "2026-04-13",
+   "ligne": 106,
+   "ancre": "### Leçon 1 — 2026-04-13 (durée ~60 min)",
+   "fin": 185
+  },
+  {
+   "id": "L2",
+   "numero": 2,
+   "titre": "L2",
+   "date": "2026-04-13",
+   "ligne": 186,
+   "ancre": "### Leçon 2 — 2026-04-13 (durée ~30 min, session soir)",
+   "fin": 241
+  },
+  {
+   "id": "L3",
+   "numero": 3,
+   "titre": "L3",
+   "date": "2026-04-14",
+   "ligne": 242,
+   "ancre": "### Leçon 3 — 2026-04-14 (durée 90 min, 10h00–11h30)",
+   "fin": 325
+  },
+  {
+   "id": "L4",
+   "numero": 4,
+   "titre": "L4",
+   "date": "2026-04-14",
+   "ligne": 326,
+   "ancre": "### Leçon 4 — 2026-04-14 (durée 30 min, 13h30, format speed-up)",
+   "fin": 402
+  },
+  {
+   "id": "L5",
+   "numero": 5,
+   "titre": "L5",
+   "date": "2026-04-14",
+   "ligne": 403,
+   "ancre": "### Leçon 5 — 2026-04-14 (durée 30 min, 17h45, format speed-up)",
+   "fin": 475
+  },
+  {
+   "id": "L5",
+   "numero": 5,
+   "titre": "suite (2026-04-14, 18h+) — Simplification kanji",
+   "date": "2026-04-14",
+   "ligne": 476,
+   "ancre": "### Leçon 5 — suite (2026-04-14, 18h+) — Simplification kanji",
+   "fin": 550
+  },
+  {
+   "id": "L6",
+   "numero": 6,
+   "titre": "L6",
+   "date": "2026-04-15",
+   "ligne": 551,
+   "ancre": "### Leçon 6 — 2026-04-15 (11h30, 90 min)",
+   "fin": 590
+  },
+  {
+   "id": "L6",
+   "numero": 6,
+   "titre": "part 2 — reprise 15h15",
+   "date": null,
+   "ligne": 591,
+   "ancre": "### Leçon 6 part 2 — reprise 15h15",
+   "fin": 767
+  },
+  {
+   "id": "L7",
+   "numero": 7,
+   "titre": "L7",
+   "date": "2026-04-15",
+   "ligne": 768,
+   "ancre": "### Leçon 7 — 2026-04-15 (19h05, 30 min max avant sport)",
+   "fin": 933
+  },
+  {
+   "id": "L8",
+   "numero": 8,
+   "titre": "L8",
+   "date": "2026-04-16",
+   "ligne": 934,
+   "ancre": "### Leçon 8 — 2026-04-16",
+   "fin": 1027
+  },
+  {
+   "id": "L9",
+   "numero": 9,
+   "titre": "L9",
+   "date": "2026-04-16",
+   "ligne": 1028,
+   "ancre": "### Leçon 9 — 2026-04-16 (13h36-14h40, ~65 min)",
+   "fin": 1102
+  },
+  {
+   "id": "L10",
+   "numero": 10,
+   "titre": "L10",
+   "date": "2026-04-16",
+   "ligne": 1103,
+   "ancre": "### Leçon 10 — 2026-04-16 (15h29-16h, 30 min)",
+   "fin": 1170
+  },
+  {
+   "id": "L11",
+   "numero": 11,
+   "titre": "L11",
+   "date": "2026-04-17",
+   "ligne": 1171,
+   "ancre": "### Leçon 11 — 2026-04-17 (11h48-12h30, ~45 min)",
+   "fin": 1236
+  },
+  {
+   "id": "L11",
+   "numero": 11,
+   "titre": "suite",
+   "date": "2026-04-17",
+   "ligne": 1237,
+   "ancre": "### Leçon 11 — suite (2026-04-17, ~13h)",
+   "fin": 1286
+  },
+  {
+   "id": "L12",
+   "numero": 12,
+   "titre": "L12",
+   "date": "2026-04-21",
+   "ligne": 1287,
+   "ancre": "### Leçon 12 — 2026-04-21 (10h47-14h30+, partielle matin puis reprise aprem)",
+   "fin": 1380
+  },
+  {
+   "id": "L13",
+   "numero": 13,
+   "titre": "L13",
+   "date": "2026-04-21",
+   "ligne": 1381,
+   "ancre": "### Leçon 13 — 2026-04-21 (suite L12, même session)",
+   "fin": 1439
+  },
+  {
+   "id": "L14",
+   "numero": 14,
+   "titre": "L14",
+   "date": "2026-04-21",
+   "ligne": 1440,
+   "ancre": "### Leçon 14 — 2026-04-21 (16h11-17h40, ~90 min, sport entre les deux)",
+   "fin": 1533
+  },
+  {
+   "id": "L15",
+   "numero": 15,
+   "titre": "L15",
+   "date": "2026-04-22",
+   "ligne": 1534,
+   "ancre": "### Leçon 15 — 2026-04-22 (9h00-9h26)",
+   "fin": 1564
+  },
+  {
+   "id": "L16",
+   "numero": 16,
+   "titre": "L16",
+   "date": "2026-04-22",
+   "ligne": 1565,
+   "ancre": "### Leçon 16 — 2026-04-22 (suite L15)",
+   "fin": 1606
+  },
+  {
+   "id": "L17",
+   "numero": 17,
+   "titre": "L17",
+   "date": "2026-04-22",
+   "ligne": 1607,
+   "ancre": "### Leçon 17 — 2026-04-22 (12h20-18h00, avec pauses)",
+   "fin": 1680
+  },
+  {
+   "id": "L18",
+   "numero": 18,
+   "titre": "L18",
+   "date": "2026-04-24",
+   "ligne": 1681,
+   "ancre": "## L18 (2026-04-24)",
+   "fin": 1702
+  },
+  {
+   "id": "L19",
+   "numero": 19,
+   "titre": "L19",
+   "date": "2026-04-24",
+   "ligne": 1703,
+   "ancre": "## L19 (2026-04-24)",
+   "fin": 1745
+  },
+  {
+   "id": "L20",
+   "numero": 20,
+   "titre": "L20",
+   "date": "2026-04-25",
+   "ligne": 1746,
+   "ancre": "## L20 (2026-04-25, début 9h00)",
+   "fin": 1808
+  },
+  {
+   "id": "L21",
+   "numero": 21,
+   "titre": "L21",
+   "date": "2026-04-30",
+   "ligne": 1809,
+   "ancre": "## L21 (2026-04-30, ~16h-18h, session soir)",
+   "fin": 1886
+  },
+  {
+   "id": "L22",
+   "numero": 22,
+   "titre": "L22",
+   "date": "2026-05-01",
+   "ligne": 1887,
+   "ancre": "## L22 — 2026-05-01 (matin, session partielle)",
+   "fin": 1960
+  },
+  {
+   "id": "L23",
+   "numero": 23,
+   "titre": "L23",
+   "date": "2026-05-01",
+   "ligne": 1961,
+   "ancre": "## L23 — 2026-05-01 (16h41)",
+   "fin": 2039
+  },
+  {
+   "id": "L24",
+   "numero": 24,
+   "titre": "L24",
+   "date": "2026-05-20",
+   "ligne": 2040,
+   "ancre": "## L24 — 2026-05-20 (reprise après 19 jours)",
+   "fin": 2126
+  },
+  {
+   "id": "L25",
+   "numero": 25,
+   "titre": "L25",
+   "date": "2026-05-20",
+   "ligne": 2127,
+   "ancre": "## L25 — 2026-05-20 (enchaîné L24, 15 min, drill くれる/もらう voyage, fin 21h)",
+   "fin": 2279
+  },
+  {
+   "id": "L26",
+   "numero": 26,
+   "titre": "L26",
+   "date": "2026-05-21",
+   "ligne": 2280,
+   "ancre": "## L26 — 2026-05-21 (warm-up 2 min + nouvelle leçon ~たり~たり)",
+   "fin": 2366
+  },
+  {
+   "id": "L27",
+   "numero": 27,
+   "titre": "Le mot magique du voyageur + particules よ/ね",
+   "date": "2026-05-21",
+   "ligne": 2367,
+   "ancre": "## L27 — 2026-05-21 — Le mot magique du voyageur + particules よ/ね",
+   "fin": 2395
+  },
+  {
+   "id": "L28",
+   "numero": 28,
+   "titre": "Onomatopées voyage",
+   "date": "2026-05-21",
+   "ligne": 2396,
+   "ancre": "## L28 — 2026-05-21 — Onomatopées voyage (en cours)",
+   "fin": 2442
+  },
+  {
+   "id": "L29",
+   "numero": 29,
+   "titre": "Drill 3 pièges anciens",
+   "date": "2026-05-24",
+   "ligne": 2443,
+   "ancre": "## L29 — 2026-05-24 — Drill 3 pièges anciens",
+   "fin": 2487
+  },
+  {
+   "id": "L30",
+   "numero": 30,
+   "titre": "5 kanji voyage express",
+   "date": "2026-05-24",
+   "ligne": 2488,
+   "ancre": "## L30 — 2026-05-24 — 5 kanji voyage express",
+   "fin": 2530
+  },
+  {
+   "id": "L31",
+   "numero": 31,
+   "titre": "12 mots voyage essentiels",
+   "date": "2026-05-24",
+   "ligne": 2531,
+   "ancre": "## L31 — 2026-05-24 — 12 mots voyage essentiels",
+   "fin": 2586
+  },
+  {
+   "id": "L31",
+   "numero": 31,
+   "titre": "défi oral",
+   "date": null,
+   "ligne": 2587,
+   "ancre": "## L31 — défi oral (résultats)",
+   "fin": 2666
+  },
+  {
+   "id": "L32",
+   "numero": 32,
+   "titre": "Session 1/3 (matin, 30 min) — Vocab massif maison + corps + verbes",
+   "date": "2026-05-25",
+   "ligne": 2667,
+   "ancre": "## L32 — 2026-05-25 — Session 1/3 (matin, 30 min) — Vocab massif maison + corps + verbes",
+   "fin": 2712
+  },
+  {
+   "id": "L32",
+   "numero": 32,
+   "titre": "Session 2/3 (midi, 30 min) — Verbes + adjectifs + nourriture + 3 kanji",
+   "date": "2026-05-25",
+   "ligne": 2713,
+   "ancre": "## L32 — 2026-05-25 — Session 2/3 (midi, 30 min) — Verbes + adjectifs + nourriture + 3 kanji",
+   "fin": 2811
+  },
+  {
+   "id": "L32",
+   "numero": 32,
+   "titre": "PAUSE 14h00 → 14h30/15h00",
+   "date": null,
+   "ligne": 2812,
+   "ancre": "## L32 — PAUSE 14h00 → 14h30/15h00 (déjeuner + douche)",
+   "fin": 2819
+  },
+  {
+   "id": "L32",
+   "numero": 32,
+   "titre": "16:00 — Session 3/3",
+   "date": "2026-05-25",
+   "ligne": 2820,
+   "ancre": "## L32 — 2026-05-25 16:00 — Session 3/3 (soir, partie 1)",
+   "fin": 2881
+  },
+  {
+   "id": "L32",
+   "numero": 32,
+   "titre": "18:33 — Session 3/3",
+   "date": "2026-05-25",
+   "ligne": 2882,
+   "ancre": "## L32 — 2026-05-25 18:33 — Session 3/3 (soir, partie 2)",
+   "fin": 2988
+  },
+  {
+   "id": "L33",
+   "numero": 33,
+   "titre": "Jour 2 régime intensif — Session 1/3",
+   "date": "2026-05-26",
+   "ligne": 2989,
+   "ancre": "## L33 — 2026-05-26 — Jour 2 régime intensif — Session 1/3 (partie 1)",
+   "fin": 3184
+  },
+  {
+   "id": "L34",
+   "numero": 34,
+   "titre": "Jour 3 régime intensif — Session 1/3",
+   "date": "2026-05-27",
+   "ligne": 3185,
+   "ancre": "## L34 — 2026-05-27 — Jour 3 régime intensif — Session 1/3 (matin, ~10h45-11h23)",
+   "fin": 3242
+  },
+  {
+   "id": "L34",
+   "numero": 34,
+   "titre": "Session 2/3",
+   "date": null,
+   "ligne": 3243,
+   "ancre": "## L34 — Session 2/3 (13h50-15h12, ~80 min)",
+   "fin": 3301
+  },
+  {
+   "id": "L34",
+   "numero": 34,
+   "titre": "Session 3/3",
+   "date": null,
+   "ligne": 3302,
+   "ancre": "## L34 — Session 3/3 (18h-23h12, focus push final)",
+   "fin": 3372
+  },
+  {
+   "id": "L35",
+   "numero": 35,
+   "titre": "Jour 4 régime intensif — Session 1/3",
+   "date": "2026-05-28",
+   "ligne": 3373,
+   "ancre": "## L35 — 2026-05-28 — Jour 4 régime intensif — Session 1/3 (10h00)",
+   "fin": 3598
+  },
+  {
+   "id": "L36",
+   "numero": 36,
+   "titre": "Jour 5 régime intensif",
+   "date": "2026-05-29",
+   "ligne": 3599,
+   "ancre": "## L36 — 2026-05-29 11h36 — Jour 5 régime intensif (69% N5)",
+   "fin": 3705
+  },
+  {
+   "id": "L37",
+   "numero": 37,
+   "titre": "Jour 6 régime intensif — MODE INTENSIF",
+   "date": "2026-06-01",
+   "ligne": 3706,
+   "ancre": "### L37 — 2026-06-01 — Jour 6 régime intensif — MODE INTENSIF (objectif 85%)",
+   "fin": 3709
+  },
+  {
+   "id": "L37",
+   "numero": 37,
+   "titre": "Vocab massif intégré",
+   "date": null,
+   "ligne": 3710,
+   "ancre": "### L37 — Vocab massif intégré (15h, mode intensif)",
+   "fin": 3765
+  },
+  {
+   "id": "L38",
+   "numero": 38,
+   "titre": "MÉGA-LEÇON DU VOL TOKYO",
+   "date": "2026-06-11",
+   "ligne": 3766,
+   "ancre": "## L38 — 2026-06-11 — MÉGA-LEÇON DU VOL TOKYO (générée à l'avance, hors ligne)",
+   "fin": 3777
+  },
+  {
+   "id": "L39",
+   "numero": 39,
+   "titre": "DIPTYQUE CULTURE : \"Le Japon des Japonais\"",
+   "date": "2026-06-12",
+   "ligne": 3778,
+   "ancre": "## L39 — 2026-06-12 — DIPTYQUE CULTURE : \"Le Japon des Japonais\" (2 × 90 min, hors ligne)",
+   "fin": 3785
+  },
+  {
+   "id": "L38",
+   "numero": 38,
+   "titre": "CONSIGNATION INTÉGRALE — Méga-leçon du vol",
+   "date": "2026-06-12",
+   "ligne": 3786,
+   "ancre": "## L38 — CONSIGNATION INTÉGRALE — Méga-leçon du vol (copie mot pour mot du chat, 2026-06-12 09:00)",
+   "fin": 4414
+  },
+  {
+   "id": "L39",
+   "numero": 39,
+   "titre": "CONSIGNATION INTÉGRALE — Diptyque culture",
+   "date": "2026-06-12",
+   "ligne": 4415,
+   "ancre": "## L39 — CONSIGNATION INTÉGRALE — Diptyque culture (copie mot pour mot du chat, 2026-06-12 09:00)",
+   "fin": 4832
+  },
+  {
+   "id": "L40",
+   "numero": 40,
+   "titre": "ARRIVÉE AU JAPON — premier événement social",
+   "date": null,
+   "ligne": 4833,
+   "ancre": "## L40 — ARRIVÉE AU JAPON — premier événement social (chat, soir)",
+   "fin": 4848
+  },
+  {
+   "id": "L41",
+   "numero": 41,
+   "titre": "(jour 4 voyage) — Bottleneck terrain : LIRE LES CARTES DE RESTAURANT",
+   "date": "2026-06-17",
+   "ligne": 4849,
+   "ancre": "## L41 — 2026-06-17 (jour 4 voyage) — Bottleneck terrain : LIRE LES CARTES DE RESTAURANT",
+   "fin": 4871
+  },
+  {
+   "id": "L42",
+   "numero": 42,
+   "titre": "15:55 (jour 4) — Refonte du cours cartes + règle fiche HTML",
+   "date": "2026-06-17",
+   "ligne": 4872,
+   "ancre": "## L42 — 2026-06-17 15:55 (jour 4) — Refonte du cours cartes + règle fiche HTML",
+   "fin": 4882
+  },
+  {
+   "id": "L43",
+   "numero": 43,
+   "titre": "16:20",
+   "date": "2026-06-17",
+   "ligne": 4883,
+   "ancre": "## L43 — 2026-06-17 16:20 (jour 4) — 3 TECHNIQUES IMPARABLES DE RÉTENTION KANJI (feedback majeur)",
+   "fin": 4894
+  },
+  {
+   "id": "L44",
+   "numero": 44,
+   "titre": "16:35",
+   "date": "2026-06-17",
+   "ligne": 4895,
+   "ancre": "## L44 — 2026-06-17 16:35 (jour 4) — LEÇON RESTAURANT 01 : RAMEN (série restaurant par restaurant)",
+   "fin": 4904
+  },
+  {
+   "id": "L45",
+   "numero": 45,
+   "titre": "12:06 (jour terrain, café Tokyo) — FEEDBACK PÉDAGOGIQUE MAJEUR : trop de contexte tue la rétention",
+   "date": "2026-06-23",
+   "ligne": 4905,
+   "ancre": "## L45 — 2026-06-23 12:06 (jour terrain, café Tokyo) — FEEDBACK PÉDAGOGIQUE MAJEUR : trop de contexte tue la rétention",
+   "fin": 4920
+  },
+  {
+   "id": "L46",
+   "numero": 46,
+   "titre": "L46",
+   "date": "2026-06-23",
+   "ligne": 4921,
+   "ancre": "## L46 — 2026-06-23 (jour terrain, café Tokyo) — 8 VRAIES FICHES KANJI DE RUE (tracés KanjiVG)",
+   "fin": 4930
+  },
+  {
+   "id": "L47",
+   "numero": 47,
+   "titre": "L47",
+   "date": "2026-06-23",
+   "ligne": 4931,
+   "ancre": "## L47 — 2026-06-23 (jour terrain, kissaten Tokyo) — Scénario café + boîte à outils commander/réserver (intermédiaire)",
+   "fin": 4942
+  },
+  {
+   "id": "L48",
+   "numero": 48,
+   "titre": "SURVIE 80/20 PARTIE 1 : motifs pivots + manger/boire",
+   "date": "2026-06-25",
+   "ligne": 4943,
+   "ancre": "## L48 — 2026-06-25 — SURVIE 80/20 PARTIE 1 : motifs pivots + manger/boire (kissaten en pause)",
+   "fin": 4952
+  },
+  {
+   "id": "L49",
+   "numero": 49,
+   "titre": "SURVIE 80/20 PARTIE 2 : se déplacer, pépins + ALLER VERS LES GENS",
+   "date": "2026-06-25",
+   "ligne": 4953,
+   "ancre": "## L49 — 2026-06-25 — SURVIE 80/20 PARTIE 2 : se déplacer, pépins + ALLER VERS LES GENS (registre détendu)",
+   "fin": 5558
+  },
+  {
+   "id": "L50",
+   "numero": 50,
+   "titre": "FEEDBACK : leçons trop verbeuses + versions dégraissées L48/L49",
+   "date": "2026-06-26",
+   "ligne": 5559,
+   "ancre": "## L50 — 2026-06-26 — FEEDBACK : leçons trop verbeuses + versions dégraissées L48/L49",
+   "fin": 5562
+  },
+  {
+   "id": "L48",
+   "numero": 48,
+   "titre": "compact — motifs pivots + manger/boire",
+   "date": null,
+   "ligne": 5563,
+   "ancre": "### L48 compact — motifs pivots + manger/boire",
+   "fin": 5584
+  },
+  {
+   "id": "L49",
+   "numero": 49,
+   "titre": "compact — se déplacer + aller vers les gens",
+   "date": null,
+   "ligne": 5585,
+   "ancre": "### L49 compact — se déplacer + aller vers les gens",
+   "fin": 5612
+  },
+  {
+   "id": "L51",
+   "numero": 51,
+   "titre": "L51",
+   "date": "2026-06-27",
+   "ligne": 5613,
+   "ancre": "## L51 — 2026-06-27 (jour rdv) — 内見 share house (Oakhouse Yokohama BayView, 11h, agent Ren Kume)",
+   "fin": 5630
+  },
+  {
+   "id": "L52",
+   "numero": 52,
+   "titre": "64 CONNECTEURS DE DISCOURS (16×4 par fonction) — combler le gap conversationnel",
+   "date": "2026-06-29",
+   "ligne": 5631,
+   "ancre": "## L52 — 2026-06-29 — 64 CONNECTEURS DE DISCOURS (16×4 par fonction) — combler le gap conversationnel",
+   "fin": 5723
+  },
+  {
+   "id": "L53",
+   "numero": 53,
+   "titre": "07:04 — RÉVISION DES BASES : « un de plus / un autre / pareil » + 64 expressions du quotidien",
+   "date": "2026-06-30",
+   "ligne": 5724,
+   "ancre": "## L53 — 2026-06-30 07:04 — RÉVISION DES BASES : « un de plus / un autre / pareil » + 64 expressions du quotidien (16×4)",
+   "fin": 5739
+  },
+  {
+   "id": "L54",
+   "numero": 54,
+   "titre": "07:08 — 32 expressions du quotidien AVANCÉES (suite L52/L53) + décodage d'oral entendu",
+   "date": "2026-06-30",
+   "ligne": 5740,
+   "ancre": "## L54 — 2026-06-30 07:08 — 32 expressions du quotidien AVANCÉES (suite L52/L53) + décodage d'oral entendu",
+   "fin": 5753
+  },
+  {
+   "id": "L54",
+   "numero": 54,
+   "titre": "L54",
+   "date": "2026-06-30",
+   "ligne": 5754,
+   "ancre": "## L54 (suite) — 2026-06-30 07:26 — 8 « c'est poli » vs 8 « c'est impoli » (+ décodage 無礼/失礼 entendus)",
+   "fin": 5764
+  },
+  {
+   "id": "L54",
+   "numero": 54,
+   "titre": "[REFONTE] — 2026-06-30 07:35 — Correction des entrées L54 (07:08 et 07:26) : trop de kanji bruts, mal construite",
+   "date": "2026-06-30",
+   "ligne": 5765,
+   "ancre": "## L54 [REFONTE] — 2026-06-30 07:35 — Correction des entrées L54 (07:08 et 07:26) : trop de kanji bruts, mal construite",
+   "fin": 5776
+  },
+  {
+   "id": "L55",
+   "numero": 55,
+   "titre": "08:24 — DIRECTIVE DURABLE : full exercice, plus de théorie + fin de session",
+   "date": "2026-06-30",
+   "ligne": 5777,
+   "ancre": "## L55 — 2026-06-30 08:24 — DIRECTIVE DURABLE : full exercice, plus de théorie + fin de session",
+   "fin": 5786
+  },
+  {
+   "id": "L56",
+   "numero": 56,
+   "titre": "12:35 — 29 expressions entendues dans la journée",
+   "date": "2026-06-30",
+   "ligne": 5787,
+   "ancre": "## L56 — 2026-06-30 12:35 — 29 expressions entendues dans la journée (décodage carnet, sous l'étoile)",
+   "fin": 5796
+  },
+  {
+   "id": "L57",
+   "numero": 57,
+   "titre": "12:39 — LEÇON « parler naturel » (mots entendus L56 organisés) + 3 supplémentaires",
+   "date": "2026-06-30",
+   "ligne": 5797,
+   "ancre": "## L57 — 2026-06-30 12:39 — LEÇON « parler naturel » (mots entendus L56 organisés) + 3 supplémentaires",
+   "fin": 5811
+  },
+  {
+   "id": "L58",
+   "numero": 58,
+   "titre": "文（ふみ・ブン/モン）découvert sur Google Maps",
+   "date": "2026-06-30",
+   "ligne": 5812,
+   "ancre": "## L58 — 2026-06-30 — 文（ふみ・ブン/モン）découvert sur Google Maps (kanji réel repéré terrain)",
+   "fin": 5821
+  },
+  {
+   "id": "L59",
+   "numero": 59,
+   "titre": "5 kanji 80/20 (chose/forme/carré/rond/menu fixe) + révélation kaisendon",
+   "date": "2026-06-30",
+   "ligne": 5822,
+   "ancre": "## L59 — 2026-06-30 — 5 kanji 80/20 (chose/forme/carré/rond/menu fixe) + révélation kaisendon",
+   "fin": 5831
+  },
+  {
+   "id": "L60",
+   "numero": 60,
+   "titre": "GRANDE FICHE RESTOS JAPON : 7 kanji-clés + 64 plats/mots",
+   "date": "2026-06-30",
+   "ligne": 5832,
+   "ancre": "## L60 — 2026-06-30 — GRANDE FICHE RESTOS JAPON : 7 kanji-clés + 64 plats/mots (16×4)",
+   "fin": 5847
+  },
+  {
+   "id": "L61",
+   "numero": 61,
+   "titre": "SKILL lesson-card-html + régénération L60 en fiche mobile",
+   "date": "2026-06-30",
+   "ligne": 5848,
+   "ancre": "## L61 — 2026-06-30 — SKILL lesson-card-html + régénération L60 en fiche mobile",
+   "fin": 5859
+  },
+  {
+   "id": "L62",
+   "numero": 62,
+   "titre": "SYSTÈME D'OBJECTIF KANJI N2",
+   "date": "2026-07-02",
+   "ligne": 5860,
+   "ancre": "## L62 — 2026-07-02 — SYSTÈME D'OBJECTIF KANJI N2 (PRIORITÉ 0/1, consignes verbatim + durables)",
+   "fin": 5909
+  },
+  {
+   "id": "L63",
+   "numero": 63,
+   "titre": "LOT JOUR 1 CURRICULUM N2",
+   "date": "2026-07-02",
+   "ligne": 5910,
+   "ancre": "## L63 — 2026-07-02 — LOT JOUR 1 CURRICULUM N2 (18 kanji, workflow parti + finalisation inline)",
+   "fin": 5935
+  },
+  {
+   "id": "L64",
+   "numero": 64,
+   "titre": "RÈGLE ABSOLUE : jamais de .md pour une leçon, toujours HTML mobile combiné",
+   "date": "2026-07-02",
+   "ligne": 5936,
+   "ancre": "## L64 — 2026-07-02 — RÈGLE ABSOLUE : jamais de .md pour une leçon, toujours HTML mobile combiné",
+   "fin": 5952
+  },
+  {
+   "id": "L65",
+   "numero": 65,
+   "titre": "CORRECTION PÉDAGOGIQUE MAJEURE : séparation des 3 tâches, N4 avant N3",
+   "date": "2026-07-02",
+   "ligne": 5953,
+   "ancre": "## L65 — 2026-07-02 — CORRECTION PÉDAGOGIQUE MAJEURE : séparation des 3 tâches, N4 avant N3",
+   "fin": 5982
+  },
+  {
+   "id": "L66",
+   "numero": 66,
+   "titre": "Renumérotation Jour 1 + protocole d'étude gravé en dur",
+   "date": "2026-07-02",
+   "ligne": 5983,
+   "ancre": "## L66 — 2026-07-02 — Renumérotation Jour 1 + protocole d'étude gravé en dur",
+   "fin": 6005
+  },
+  {
+   "id": "L67",
+   "numero": 67,
+   "titre": "05:55 — STREET JAPANESE : lexique 1024 expressions du japonais parlé réel",
+   "date": "2026-07-03",
+   "ligne": 6006,
+   "ancre": "## L67 — 2026-07-03 05:55 — STREET JAPANESE : lexique 1024 expressions du japonais parlé réel (6 fiches HTML mobiles)",
+   "fin": 6013
+  },
+  {
+   "id": "L68",
+   "numero": 68,
+   "titre": "RANGEMENT du dossier Japanese + réponse priorité kanji vs oral",
+   "date": "2026-07-03",
+   "ligne": 6014,
+   "ancre": "## L68 — 2026-07-03 — RANGEMENT du dossier Japanese + réponse priorité kanji vs oral",
+   "fin": 6029
+  },
+  {
+   "id": "L69",
+   "numero": 69,
+   "titre": "RANGEMENT v2 : consolidation en 2 dossiers",
+   "date": "2026-07-03",
+   "ligne": 6030,
+   "ancre": "## L69 — 2026-07-03 — RANGEMENT v2 : consolidation en 2 dossiers (Lessons/ vs _system/)",
+   "fin": 6047
+  },
+  {
+   "id": "L70",
+   "numero": 70,
+   "titre": "DrillTracker : diagnostic \"écrit jamais lu\" + règle de démarrage vérifiable",
+   "date": "2026-07-03",
+   "ligne": 6048,
+   "ancre": "## L70 — 2026-07-03 — DrillTracker : diagnostic \"écrit jamais lu\" + règle de démarrage vérifiable",
+   "fin": 6063
+  },
+  {
+   "id": "L71",
+   "numero": 71,
+   "titre": "STREET1 : pivot de livraison en 8 blocs",
+   "date": "2026-07-08",
+   "ligne": 6064,
+   "ancre": "## L71 — 2026-07-08 — STREET1 : pivot de livraison en 8 blocs (au lieu du fichier HTML entier d'un coup)",
+   "fin": 6094
+  },
+  {
+   "id": "L72",
+   "numero": 72,
+   "titre": "Correction Bloc 1/8 : exemple item 10 trop chargé",
+   "date": "2026-07-08",
+   "ligne": 6095,
+   "ancre": "## L72 — 2026-07-08 — Correction Bloc 1/8 : exemple item 10 trop chargé",
+   "fin": 6102
+  },
+  {
+   "id": "L73",
+   "numero": 73,
+   "titre": "STREET1 MIS EN PAUSE : le vrai blocage est la formation て/ない, pas les contractions",
+   "date": "2026-07-08",
+   "ligne": 6103,
+   "ancre": "## L73 — 2026-07-08 — STREET1 MIS EN PAUSE : le vrai blocage est la formation て/ない, pas les contractions",
+   "fin": 6113
+  },
+  {
+   "id": "L74",
+   "numero": 74,
+   "titre": "Drill formation て : 6/8, 2 erreurs identifiées",
+   "date": "2026-07-08",
+   "ligne": 6114,
+   "ancre": "## L74 — 2026-07-08 — Drill formation て : 6/8, 2 erreurs identifiées (う→って et exception 行く)",
+   "fin": 6124
+  },
+  {
+   "id": "L75",
+   "numero": 75,
+   "titre": "Drill ない 8/8 + AUDIT : Street ne couvre jamais le registre poli",
+   "date": "2026-07-08",
+   "ligne": 6125,
+   "ancre": "## L75 — 2026-07-08 — Drill ない 8/8 + AUDIT : Street ne couvre jamais le registre poli",
+   "fin": 6141
+  },
+  {
+   "id": "L76",
+   "numero": 76,
+   "titre": "Leçon ない/ません recopiée dans le carnet + 16 verbes entrent en vocabulaire",
+   "date": "2026-07-08",
+   "ligne": 6142,
+   "ancre": "## L76 — 2026-07-08 — Leçon ない/ません recopiée dans le carnet + 16 verbes entrent en vocabulaire",
+   "fin": 6168
+  },
+  {
+   "id": "L77",
+   "numero": 77,
+   "titre": "PATCH registre poli (phase 1/N) + reprise Street1 Bloc 2/8",
+   "date": "2026-07-08",
+   "ligne": 6169,
+   "ancre": "## L77 — 2026-07-08 — PATCH registre poli (phase 1/N) + reprise Street1 Bloc 2/8",
+   "fin": 6205
+  },
+  {
+   "id": "L78",
+   "numero": 78,
+   "titre": "Patch poli : module 1 et module 2 terminés",
+   "date": "2026-07-08",
+   "ligne": 6206,
+   "ancre": "## L78 — 2026-07-08 — Patch poli : module 1 et module 2 terminés (330/1084 items)",
+   "fin": 6221
+  },
+  {
+   "id": "L79",
+   "numero": 79,
+   "titre": "Patch poli : module 6 terminé",
+   "date": "2026-07-08",
+   "ligne": 6222,
+   "ancre": "## L79 — 2026-07-08 — Patch poli : module 6 terminé (532/1084 items)",
+   "fin": 6232
+  },
+  {
+   "id": "L80",
+   "numero": 80,
+   "titre": "Patch poli : module 4 terminé",
+   "date": "2026-07-08",
+   "ligne": 6233,
+   "ancre": "## L80 — 2026-07-08 — Patch poli : module 4 terminé (680/1084 items)",
+   "fin": 6243
+  },
+  {
+   "id": "L81",
+   "numero": 81,
+   "titre": "Correction : poli en kanji nu dans le chat, illisible",
+   "date": "2026-07-08",
+   "ligne": 6244,
+   "ancre": "## L81 — 2026-07-08 — Correction : poli en kanji nu dans le chat, illisible",
+   "fin": 6254
+  },
+  {
+   "id": "L82",
+   "numero": 82,
+   "titre": "Patch poli : module 3 terminé",
+   "date": "2026-07-08",
+   "ligne": 6255,
+   "ancre": "## L82 — 2026-07-08 — Patch poli : module 3 terminé (882/1084 items)",
+   "fin": 6265
+  },
+  {
+   "id": "L83",
+   "numero": 83,
+   "titre": "PATCH POLI TERMINÉ : les 6 modules Street ont leur miroir poli",
+   "date": "2026-07-08",
+   "ligne": 6266,
+   "ancre": "## L83 — 2026-07-08 — PATCH POLI TERMINÉ : les 6 modules Street ont leur miroir poli (1024/1084)",
+   "fin": 6281
+  },
+  {
+   "id": "L84",
+   "numero": 84,
+   "titre": "Fin de session : item 3 (って何？) confus, fatigue signalée",
+   "date": "2026-07-08",
+   "ligne": 6282,
+   "ancre": "## L84 — 2026-07-08 — Fin de session : item 3 (って何？) confus, fatigue signalée",
+   "fin": 6292
+  },
+  {
+   "id": "L85",
+   "numero": 85,
+   "titre": "REPRISE après ~12 jours + FEEDBACK MAJEUR : petits blocs, jamais de grosses générations",
+   "date": "2026-07-20",
+   "ligne": 6293,
+   "ancre": "## L85 — 2026-07-20 — REPRISE après ~12 jours + FEEDBACK MAJEUR : petits blocs, jamais de grosses générations",
+   "fin": 6306
+  },
+  {
+   "id": "L86",
+   "numero": 86,
+   "titre": "Test resto corrigé : 5,5/10. Diagnostic : le socle poli tient, le terrain casual manque",
+   "date": "2026-07-20",
+   "ligne": 6307,
+   "ancre": "## L86 — 2026-07-20 — Test resto corrigé : 5,5/10. Diagnostic : le socle poli tient, le terrain casual manque",
+   "fin": 6342
+  },
+  {
+   "id": "L88",
+   "numero": 88,
+   "titre": "PAUSE L87 · Démarrage BOSS FINAL : 花束みたいな恋をした en fast loops de 15 min",
+   "date": "2026-08-13",
+   "ligne": 6343,
+   "ancre": "## L88 — 2026-08-13 — PAUSE L87 · Démarrage BOSS FINAL : 花束みたいな恋をした en fast loops de 15 min",
+   "fin": 6372
+  },
+  {
+   "id": "L89",
+   "numero": 89,
+   "titre": "FEEDBACK MAJEUR : trop verbeux, format dictionnaire dès maintenant",
+   "date": "2026-08-13",
+   "ligne": 6373,
+   "ancre": "## L89 — 2026-08-13 — FEEDBACK MAJEUR : trop verbeux, format dictionnaire dès maintenant",
+   "fin": 6387
+  },
+  {
+   "id": "L90",
+   "numero": 90,
+   "titre": "23:37 — STOP FILM. Recalibrage : 100% oral, 1 mois restant",
+   "date": "2026-08-13",
+   "ligne": 6388,
+   "ancre": "## L90 — 2026-08-13 23:37 — STOP FILM. Recalibrage : 100% oral, 1 mois restant",
+   "fin": 6410
+  },
+  {
+   "id": "L91",
+   "numero": 91,
+   "titre": "Correction de L90 : le volume n'était pas le problème, la TAILLE DU BLOC l'était",
+   "date": "2026-08-14",
+   "ligne": 6411,
+   "ancre": "## L91 — 2026-08-14 — Correction de L90 : le volume n'était pas le problème, la TAILLE DU BLOC l'était",
+   "fin": 6427
+  },
+  {
+   "id": "L92",
+   "numero": 92,
+   "titre": "Feedback : chaque boucle 15/2 doit retester l'accumulé, pas juste avancer",
+   "date": "2026-08-14",
+   "ligne": 6428,
+   "ancre": "## L92 — 2026-08-14 — Feedback : chaque boucle 15/2 doit retester l'accumulé, pas juste avancer",
+   "fin": 6441
+  },
+  {
+   "id": "L87",
+   "numero": 87,
+   "titre": "(rétroactive, formalisée 2026-08-14) — L'axe poli↔neutre, enfin livrée",
+   "date": "2026-08-14",
+   "ligne": 6442,
+   "ancre": "## L87 (rétroactive, formalisée 2026-08-14) — L'axe poli↔neutre, enfin livrée",
+   "fin": 6463
+  },
+  {
+   "id": "L93",
+   "numero": 93,
+   "titre": "Clôture de la journée fast-loop : たら consolidé",
+   "date": "2026-08-14",
+   "ligne": 6464,
+   "ancre": "## L93 — 2026-08-14 — Clôture de la journée fast-loop : たら consolidé (piège faux-る résolu)",
+   "fin": 6479
+  },
+  {
+   "id": "L94",
+   "numero": 94,
+   "titre": "→soir — Reprise du soir : interleaving + くらい/ぐらい, clôture",
+   "date": "2026-08-14",
+   "ligne": 6480,
+   "ancre": "## L94 — 2026-08-14 17h34→soir — Reprise du soir : interleaving + くらい/ぐらい, clôture",
+   "fin": 6496
+  },
+  {
+   "id": "L95",
+   "numero": 95,
+   "titre": "soir — Ctrl-S léger : diagnostic phrases longues + phrase du jour",
+   "date": "2026-08-14",
+   "ligne": 6497,
+   "ancre": "## L95 — 2026-08-14 soir — Ctrl-S léger : diagnostic phrases longues + phrase du jour",
+   "fin": 6507
+  },
+  {
+   "id": "L96",
+   "numero": 96,
+   "titre": "(J-24) — Phrases longues débloquées + demande katakana 100%",
+   "date": "2026-08-15",
+   "ligne": 6508,
+   "ancre": "## L96 — 2026-08-15 (J-24) — Phrases longues débloquées + demande katakana 100%",
+   "fin": 6532
+  },
+  {
+   "id": "L98",
+   "numero": 98,
+   "titre": "(J-24, café → maison) — Katakana quasi bouclés + captures terrain du jour",
+   "date": "2026-08-15",
+   "ligne": 6533,
+   "ancre": "## L98 — 2026-08-15 (J-24, café → maison) — Katakana quasi bouclés + captures terrain du jour",
+   "fin": 6560
+  },
+  {
+   "id": "L99",
+   "numero": 99,
+   "titre": "Réintégration progressive des kanji, PAR LE TERRAIN",
+   "date": "2026-08-15",
+   "ligne": 6561,
+   "ancre": "## L99 — 2026-08-15 — Réintégration progressive des kanji, PAR LE TERRAIN (nuance L90)",
+   "fin": 6589
+  },
+  {
+   "id": "L100",
+   "numero": 100,
+   "titre": "TEST FINAL DES 46 : 15/16. Chantier katakana FERMÉ",
+   "date": "2026-08-15",
+   "ligne": 6590,
+   "ancre": "## L100 — 2026-08-15 23h50 — TEST FINAL DES 46 : 15/16. Chantier katakana FERMÉ",
+   "fin": 6614
+  },
+  {
+   "id": "L101",
+   "numero": 101,
+   "titre": "Fin de session + NOUVELLE DIRECTION : parler aux Japonais·es + culture",
+   "date": "2026-08-16",
+   "ligne": 6615,
+   "ancre": "## L101 — 2026-08-16 01h — Fin de session + NOUVELLE DIRECTION : parler aux Japonais·es + culture",
+   "fin": 6646
+  },
+  {
+   "id": "L102",
+   "numero": 102,
+   "titre": "[CORRECTION du sommaire L101] Le levier avant la tâche",
+   "date": "2026-08-16",
+   "ligne": 6647,
+   "ancre": "## L102 — 2026-08-16 — [CORRECTION du sommaire L101] Le levier avant la tâche",
+   "fin": 6670
+  },
+  {
+   "id": "L103",
+   "numero": 103,
+   "titre": "Objectif N2 déclaré + bascule en itératif-incrémental",
+   "date": "2026-08-16",
+   "ligne": 6671,
+   "ancre": "## L103 — 2026-08-16 14h — Objectif N2 déclaré + bascule en itératif-incrémental (tranche verticale)",
+   "fin": 6698
+  },
+  {
+   "id": "L104",
+   "numero": 104,
+   "titre": "RELECTURE INTÉGRALE + principe pyramidal + jauge de progression en P0",
+   "date": "2026-08-16",
+   "ligne": 6699,
+   "ancre": "## L104 — 2026-08-16 — RELECTURE INTÉGRALE + principe pyramidal + jauge de progression en P0",
+   "fin": 6739
+  },
+  {
+   "id": "L105",
+   "numero": 105,
+   "titre": "FEEDBACK : la mise en forme tue l'envie d'apprendre",
+   "date": "2026-08-16",
+   "ligne": 6740,
+   "ancre": "## L105 — 2026-08-16 18h10 — FEEDBACK : la mise en forme tue l'envie d'apprendre",
+   "fin": 6764
+  },
+  {
+   "id": "L105",
+   "numero": 105,
+   "titre": "CORRECTION du diagnostic L105 : le tableau n'était pas le problème",
+   "date": "2026-08-16",
+   "ligne": 6765,
+   "ancre": "## L105-bis — 2026-08-16 — CORRECTION du diagnostic L105 : le tableau n'était pas le problème",
+   "fin": 6787
+  },
+  {
+   "id": "L106",
+   "numero": 106,
+   "titre": "Template de leçon VALIDÉ",
+   "date": "2026-08-16",
+   "ligne": 6788,
+   "ancre": "## L106 — 2026-08-16 — Template de leçon VALIDÉ (« parfait, bravo »)",
+   "fin": 6791
+  },
+  {
+   "id": "L107",
+   "numero": 107,
+   "titre": "ZENRAYJAPANESE : CE FICHIER EST DÉSORMAIS AFFICHÉ, PAS SEULEMENT ARCHIVÉ",
+   "date": "2026-08-27",
+   "ligne": 6792,
+   "ancre": "## L107 — 2026-08-27 — ZENRAYJAPANESE : CE FICHIER EST DÉSORMAIS AFFICHÉ, PAS SEULEMENT ARCHIVÉ",
+   "fin": 6847
+  },
+  {
+   "id": "L108",
+   "numero": 108,
+   "titre": "RÈGLE : UNE LEÇON SAUVEGARDÉE L'EST SUR LE SITE, PAS SEULEMENT SUR GITHUB",
+   "date": "2026-08-27",
+   "ligne": 6848,
+   "ancre": "## L108 — 2026-08-27 — RÈGLE : UNE LEÇON SAUVEGARDÉE L'EST SUR LE SITE, PAS SEULEMENT SUR GITHUB",
+   "fin": 6876
+  },
+  {
+   "id": "L109",
+   "numero": 109,
+   "titre": "16:00 : N4 FAST-TRACK : LE POTENTIEL (~る / ~られる) ET VOCABULAIRE MASSIF",
+   "date": "2026-09-07",
+   "ligne": 6877,
+   "ancre": "## L109 : 2026-09-07 16:00 : N4 FAST-TRACK : LE POTENTIEL (~る / ~られる) ET VOCABULAIRE MASSIF",
+   "fin": 6956
+  },
+  {
+   "id": "L110",
+   "numero": 110,
+   "titre": "16:15 : ONLY VOCABULARY : CONVERSATION, SENSATIONS ET RELANCES TOKYO",
+   "date": "2026-09-07",
+   "ligne": 6957,
+   "ancre": "## L110 : 2026-09-07 16:15 : ONLY VOCABULARY : CONVERSATION, SENSATIONS ET RELANCES TOKYO",
+   "fin": 7024
+  }
+ ],
+ "grammaire": [
+  {
+   "point": "は (wa)",
+   "sens": "sujet/thème",
+   "lecon": "L1",
+   "ligne": 165,
+   "niveau": null
+  },
+  {
+   "point": "を (wo)",
+   "sens": "objet direct",
+   "lecon": "L1",
+   "ligne": 166,
+   "niveau": null
+  },
+  {
+   "point": "で (de)",
+   "sens": "lieu d'action",
+   "lecon": "L1",
+   "ligne": 167,
+   "niveau": null
+  },
+  {
+   "point": "に (ni)",
+   "sens": "destination/temps",
+   "lecon": "L1",
+   "ligne": 168,
+   "niveau": null
+  },
+  {
+   "point": "Verbes d'existence ある / いる",
+   "sens": null,
+   "lecon": "L7",
+   "ligne": 836,
+   "niveau": "N5"
+  },
+  {
+   "point": "から",
+   "sens": "depuis / à partir de",
+   "lecon": "L10",
+   "ligne": 1115,
+   "niveau": null
+  },
+  {
+   "point": "まで",
+   "sens": "jusqu'à",
+   "lecon": "L10",
+   "ligne": 1116,
+   "niveau": null
+  },
+  {
+   "point": "[て形] + もいいですか",
+   "sens": "Puis-je... ?",
+   "lecon": "L16",
+   "ligne": 1571,
+   "niveau": null
+  },
+  {
+   "point": "[て形] + はいけません",
+   "sens": "Il est interdit de...",
+   "lecon": "L16",
+   "ligne": 1572,
+   "niveau": null
+  },
+  {
+   "point": "はだめです",
+   "sens": "= いけません (casual)",
+   "lecon": "L16",
+   "ligne": 1573,
+   "niveau": null
+  },
+  {
+   "point": "[た形] + ことがあります",
+   "sens": "J'ai déjà...",
+   "lecon": "L17",
+   "ligne": 1624,
+   "niveau": null
+  },
+  {
+   "point": "[た形] + ことがありません",
+   "sens": "Je n'ai jamais...",
+   "lecon": "L17",
+   "ligne": 1625,
+   "niveau": null
+  },
+  {
+   "point": "[た形] + ことがありますか",
+   "sens": "Est-ce que tu as déjà... ?",
+   "lecon": "L17",
+   "ligne": 1626,
+   "niveau": null
+  },
+  {
+   "point": "~ないでください",
+   "sens": "ない形 + でください",
+   "lecon": "L19",
+   "ligne": 1709,
+   "niveau": null
+  },
+  {
+   "point": "~なければなりません",
+   "sens": "ない形 → なければなりません",
+   "lecon": "L19",
+   "ligne": 1710,
+   "niveau": null
+  },
+  {
+   "point": "~まえに",
+   "sens": "[verbe dictionnaire] + まえに",
+   "lecon": "L22",
+   "ligne": 1908,
+   "niveau": null
+  },
+  {
+   "point": "~あとで",
+   "sens": "[verbe たform] + あとで",
+   "lecon": "L22",
+   "ligne": 1909,
+   "niveau": null
+  },
+  {
+   "point": "particules de lieu — で / に / へ",
+   "sens": null,
+   "lecon": "L25",
+   "ligne": 2266,
+   "niveau": null
+  },
+  {
+   "point": "~たり~たり",
+   "sens": null,
+   "lecon": "L26",
+   "ligne": 2292,
+   "niveau": "N5"
+  },
+  {
+   "point": "Particules de fin よ / ね",
+   "sens": null,
+   "lecon": "L27",
+   "ligne": 2377,
+   "niveau": null
+  },
+  {
+   "point": "~つもり",
+   "sens": null,
+   "lecon": "L32",
+   "ligne": 2903,
+   "niveau": null
+  },
+  {
+   "point": "~なる",
+   "sens": null,
+   "lecon": "L33",
+   "ligne": 3140,
+   "niveau": null
+  },
+  {
+   "point": "~たら (conditionnel)",
+   "sens": null,
+   "lecon": "L36",
+   "ligne": 3660,
+   "niveau": null
+  },
+  {
+   "point": "いただきます",
+   "sens": "« je reçois humblement »",
+   "lecon": "L49",
+   "ligne": 5027,
+   "niveau": null
+  },
+  {
+   "point": "いただけますか",
+   "sens": "« pourrais-je avoir / recevoir ? »",
+   "lecon": "L49",
+   "ligne": 5028,
+   "niveau": null
+  },
+  {
+   "point": "La particule de fin さ / ね / よ",
+   "sens": null,
+   "lecon": "L49",
+   "ligne": 5330,
+   "niveau": null
+  },
+  {
+   "point": "って, la particule qui remplace tout",
+   "sens": null,
+   "lecon": "L77",
+   "ligne": 6185,
+   "niveau": null
+  },
+  {
+   "point": "LE POTENTIEL",
+   "sens": null,
+   "lecon": "L104",
+   "ligne": 6734,
+   "niveau": "N4"
+  },
+  {
+   "point": "~る / ~られる",
+   "sens": null,
+   "lecon": "L109",
+   "ligne": 6895,
+   "niveau": null
+  }
+ ],
+ "vocabulaire": [
+  {
+   "mot": "みず",
+   "sens": "eau",
+   "lecon": "L9",
+   "ligne": 1052
+  },
+  {
+   "mot": "でんしゃ",
+   "sens": "train",
+   "lecon": "L9",
+   "ligne": 1053
+  },
+  {
+   "mot": "えき",
+   "sens": "gare",
+   "lecon": "L9",
+   "ligne": 1054
+  },
+  {
+   "mot": "きっぷ",
+   "sens": "billet",
+   "lecon": "L9",
+   "ligne": 1055
+  },
+  {
+   "mot": "きょう",
+   "sens": "aujourd'hui (jukujikun 今日)",
+   "lecon": "L9",
+   "ligne": 1056
+  },
+  {
+   "mot": "あした",
+   "sens": "demain",
+   "lecon": "L9",
+   "ligne": 1057
+  },
+  {
+   "mot": "きのう",
+   "sens": "hier",
+   "lecon": "L9",
+   "ligne": 1058
+  },
+  {
+   "mot": "いくら",
+   "sens": "combien (prix)",
+   "lecon": "L9",
+   "ligne": 1059
+  },
+  {
+   "mot": "すみません",
+   "sens": "excusez-moi",
+   "lecon": "L9",
+   "ligne": 1060
+  },
+  {
+   "mot": "おねがいします",
+   "sens": "s'il vous plait (demande formelle)",
+   "lecon": "L9",
+   "ligne": 1061
+  },
+  {
+   "mot": "くうこう",
+   "sens": "aéroport",
+   "lecon": "L14",
+   "ligne": 1470
+  },
+  {
+   "mot": "ホテル",
+   "sens": "hôtel",
+   "lecon": "L14",
+   "ligne": 1471
+  },
+  {
+   "mot": "バス",
+   "sens": "bus",
+   "lecon": "L14",
+   "ligne": 1472
+  },
+  {
+   "mot": "みぎ",
+   "sens": "droite",
+   "lecon": "L14",
+   "ligne": 1473
+  },
+  {
+   "mot": "ひだり",
+   "sens": "gauche",
+   "lecon": "L14",
+   "ligne": 1474
+  },
+  {
+   "mot": "まっすぐ",
+   "sens": "tout droit",
+   "lecon": "L14",
+   "ligne": 1475
+  },
+  {
+   "mot": "ちかい",
+   "sens": "proche (い-adj)",
+   "lecon": "L14",
+   "ligne": 1476
+  },
+  {
+   "mot": "わかりません",
+   "sens": "je ne comprends pas",
+   "lecon": "L14",
+   "ligne": 1477
+  },
+  {
+   "mot": "もういちど",
+   "sens": "encore une fois",
+   "lecon": "L14",
+   "ligne": 1478
+  },
+  {
+   "mot": "ゆっくり",
+   "sens": "lentement",
+   "lecon": "L14",
+   "ligne": 1479
+  },
+  {
+   "mot": "コンビニ",
+   "sens": "convenience store",
+   "lecon": "L15",
+   "ligne": 1554
+  },
+  {
+   "mot": "ちかてつ",
+   "sens": "métro",
+   "lecon": "L15",
+   "ligne": 1555
+  },
+  {
+   "mot": "のりかえ",
+   "sens": "correspondance",
+   "lecon": "L15",
+   "ligne": 1556
+  },
+  {
+   "mot": "つぎ",
+   "sens": "prochain(e)",
+   "lecon": "L15",
+   "ligne": 1557
+  },
+  {
+   "mot": "でぐち",
+   "sens": "sortie",
+   "lecon": "L15",
+   "ligne": 1558
+  },
+  {
+   "mot": "いりぐち",
+   "sens": "entrée",
+   "lecon": "L15",
+   "ligne": 1559
+  },
+  {
+   "mot": "まえ",
+   "sens": "devant/avant",
+   "lecon": "L15",
+   "ligne": 1560
+  },
+  {
+   "mot": "うしろ",
+   "sens": "derrière",
+   "lecon": "L15",
+   "ligne": 1561
+  },
+  {
+   "mot": "となり",
+   "sens": "à côté",
+   "lecon": "L15",
+   "ligne": 1562
+  },
+  {
+   "mot": "むこう",
+   "sens": "de l'autre côté/là-bas",
+   "lecon": "L15",
+   "ligne": 1563
+  },
+  {
+   "mot": "しゃしん",
+   "sens": "photo",
+   "lecon": "L16",
+   "ligne": 1581
+  },
+  {
+   "mot": "すわる",
+   "sens": "s'asseoir (godan る→って)",
+   "lecon": "L16",
+   "ligne": 1582
+  },
+  {
+   "mot": "まつ",
+   "sens": "attendre (godan つ→って)",
+   "lecon": "L16",
+   "ligne": 1583
+  },
+  {
+   "mot": "まど",
+   "sens": "fenêtre",
+   "lecon": "L16",
+   "ligne": 1584
+  },
+  {
+   "mot": "さむい",
+   "sens": "froid (température, い-adj)",
+   "lecon": "L16",
+   "ligne": 1585
+  },
+  {
+   "mot": "からい",
+   "sens": "épicé/piquant (い-adj)",
+   "lecon": "L16",
+   "ligne": 1586
+  },
+  {
+   "mot": "あまい",
+   "sens": "sucré (い-adj)",
+   "lecon": "L16",
+   "ligne": 1587
+  },
+  {
+   "mot": "ひとり",
+   "sens": "une personne / seul (一人)",
+   "lecon": "L16",
+   "ligne": 1588
+  },
+  {
+   "mot": "ふたり",
+   "sens": "deux personnes (二人)",
+   "lecon": "L16",
+   "ligne": 1589
+  },
+  {
+   "mot": "よやく",
+   "sens": "réservation",
+   "lecon": "L16",
+   "ligne": 1590
+  },
+  {
+   "mot": "びょういん",
+   "sens": "hôpital",
+   "lecon": "L17",
+   "ligne": 1634
+  },
+  {
+   "mot": "やっきょく",
+   "sens": "pharmacie",
+   "lecon": "L17",
+   "ligne": 1635
+  },
+  {
+   "mot": "いたい",
+   "sens": "avoir mal (い-adj)",
+   "lecon": "L17",
+   "ligne": 1636
+  },
+  {
+   "mot": "ねつ",
+   "sens": "fièvre",
+   "lecon": "L17",
+   "ligne": 1637
+  },
+  {
+   "mot": "かぜ",
+   "sens": "rhume",
+   "lecon": "L17",
+   "ligne": 1638
+  },
+  {
+   "mot": "おかね",
+   "sens": "argent",
+   "lecon": "L17",
+   "ligne": 1639
+  },
+  {
+   "mot": "さいふ",
+   "sens": "portefeuille",
+   "lecon": "L17",
+   "ligne": 1640
+  },
+  {
+   "mot": "かいもの",
+   "sens": "shopping/courses",
+   "lecon": "L17",
+   "ligne": 1641
+  },
+  {
+   "mot": "ちず",
+   "sens": "carte/plan",
+   "lecon": "L17",
+   "ligne": 1642
+  },
+  {
+   "mot": "ことし",
+   "sens": "cette année",
+   "lecon": "L17",
+   "ligne": 1643
+  },
+  {
+   "mot": "あげる",
+   "sens": "donner",
+   "lecon": "L21",
+   "ligne": 1837
+  },
+  {
+   "mot": "くれる",
+   "sens": "donner à moi",
+   "lecon": "L21",
+   "ligne": 1838
+  },
+  {
+   "mot": "もらう",
+   "sens": "recevoir",
+   "lecon": "L21",
+   "ligne": 1839
+  },
+  {
+   "mot": "ウェイター",
+   "sens": "serveur",
+   "lecon": "L25",
+   "ligne": 2135
+  },
+  {
+   "mot": "メニュー",
+   "sens": "menu (attention ー final)",
+   "lecon": "L25",
+   "ligne": 2136
+  },
+  {
+   "mot": "おつり",
+   "sens": "la monnaie qu'on te rend",
+   "lecon": "L25",
+   "ligne": 2137
+  },
+  {
+   "mot": "する",
+   "sens": "\"j'ai fait\"",
+   "lecon": "L26",
+   "ligne": 2334
+  },
+  {
+   "mot": "しる",
+   "sens": "\"j'ai su\"",
+   "lecon": "L26",
+   "ligne": 2335
+  },
+  {
+   "mot": "みる",
+   "sens": "\"j'ai vu\"",
+   "lecon": "L26",
+   "ligne": 2336
+  },
+  {
+   "mot": "ペコペコ",
+   "sens": "ventre vide / faim",
+   "lecon": "L28",
+   "ligne": 2402
+  },
+  {
+   "mot": "ピカピカ",
+   "sens": "qui brille / neuf",
+   "lecon": "L28",
+   "ligne": 2403
+  },
+  {
+   "mot": "ザーザー",
+   "sens": "pluie battante",
+   "lecon": "L28",
+   "ligne": 2404
+  },
+  {
+   "mot": "ドキドキ",
+   "sens": "cœur qui bat",
+   "lecon": "L28",
+   "ligne": 2405
+  },
+  {
+   "mot": "ペラペラ",
+   "sens": "parler couramment",
+   "lecon": "L28",
+   "ligne": 2406
+  },
+  {
+   "mot": "ごはん",
+   "sens": "riz / repas",
+   "lecon": "L31",
+   "ligne": 2537
+  },
+  {
+   "mot": "おちゃ",
+   "sens": "thé vert",
+   "lecon": "L31",
+   "ligne": 2538
+  },
+  {
+   "mot": "みそしる",
+   "sens": "soupe miso",
+   "lecon": "L31",
+   "ligne": 2539
+  },
+  {
+   "mot": "さかな",
+   "sens": "poisson",
+   "lecon": "L31",
+   "ligne": 2540
+  },
+  {
+   "mot": "にく",
+   "sens": "viande",
+   "lecon": "L31",
+   "ligne": 2541
+  },
+  {
+   "mot": "やさい",
+   "sens": "légumes",
+   "lecon": "L31",
+   "ligne": 2542
+  },
+  {
+   "mot": "あたま",
+   "sens": "tête",
+   "lecon": "L31",
+   "ligne": 2548
+  },
+  {
+   "mot": "て",
+   "sens": "main",
+   "lecon": "L31",
+   "ligne": 2549
+  },
+  {
+   "mot": "あし",
+   "sens": "jambe / pied",
+   "lecon": "L31",
+   "ligne": 2550
+  },
+  {
+   "mot": "わかる",
+   "sens": "comprendre",
+   "lecon": "L31",
+   "ligne": 2556
+  },
+  {
+   "mot": "おぼえる",
+   "sens": "retenir / mémoriser",
+   "lecon": "L31",
+   "ligne": 2557
+  },
+  {
+   "mot": "つかう",
+   "sens": "utiliser",
+   "lecon": "L31",
+   "ligne": 2558
+  },
+  {
+   "mot": "かさ",
+   "sens": "parapluie",
+   "lecon": "L39",
+   "ligne": 4463
+  },
+  {
+   "mot": "ビニールがさ",
+   "sens": "parapluie plastique transparent",
+   "lecon": "L39",
+   "ligne": 4464
+  },
+  {
+   "mot": "かさたて",
+   "sens": "porte-parapluies",
+   "lecon": "L39",
+   "ligne": 4465
+  },
+  {
+   "mot": "じめじめ",
+   "sens": "humide-poisseux (onomatopée)",
+   "lecon": "L39",
+   "ligne": 4466
+  },
+  {
+   "mot": "むしあつい",
+   "sens": "chaud et humide / moite",
+   "lecon": "L39",
+   "ligne": 4467
+  },
+  {
+   "mot": "ざあざあ",
+   "sens": "pluie battante",
+   "lecon": "L39",
+   "ligne": 4468
+  },
+  {
+   "mot": "てるてるぼうず",
+   "sens": "petite poupée anti-pluie",
+   "lecon": "L39",
+   "ligne": 4469
+  },
+  {
+   "mot": "一期一会",
+   "sens": "\"une vie, une rencontre\" — chaque rencontre est unique et ne se reproduira jamais",
+   "lecon": "L39",
+   "ligne": 4602
+  },
+  {
+   "mot": "七転び八起き",
+   "sens": "\"tombe sept fois, relève-toi huit\"",
+   "lecon": "L39",
+   "ligne": 4603
+  },
+  {
+   "mot": "十人十色",
+   "sens": "\"dix personnes, dix couleurs\" — chacun ses goûts",
+   "lecon": "L39",
+   "ligne": 4604
+  },
+  {
+   "mot": "一生懸命",
+   "sens": "de toutes ses forces",
+   "lecon": "L39",
+   "ligne": 4605
+  },
+  {
+   "mot": "温故知新",
+   "sens": "\"réchauffer l'ancien pour connaître le neuf\"",
+   "lecon": "L39",
+   "ligne": 4606
+  },
+  {
+   "mot": "検疫",
+   "sens": "quarantaine sanitaire",
+   "lecon": "L39",
+   "ligne": 4733
+  },
+  {
+   "mot": "入国審査",
+   "sens": "contrôle d'immigration",
+   "lecon": "L39",
+   "ligne": 4734
+  },
+  {
+   "mot": "税関",
+   "sens": "douane",
+   "lecon": "L39",
+   "ligne": 4735
+  },
+  {
+   "mot": "渋谷",
+   "sens": "Shibuya",
+   "lecon": "L39",
+   "ligne": 4736
+  },
+  {
+   "mot": "新宿",
+   "sens": "Shinjuku",
+   "lecon": "L39",
+   "ligne": 4737
+  },
+  {
+   "mot": "秋葉原",
+   "sens": "Akihabara",
+   "lecon": "L39",
+   "ligne": 4738
+  },
+  {
+   "mot": "四ツ谷",
+   "sens": "Yotsuya",
+   "lecon": "L39",
+   "ligne": 4739
+  },
+  {
+   "mot": "三鷹",
+   "sens": "Mitaka (musée Ghibli)",
+   "lecon": "L39",
+   "ligne": 4740
+  },
+  {
+   "mot": "京都",
+   "sens": "Kyoto",
+   "lecon": "L39",
+   "ligne": 4741
+  },
+  {
+   "mot": "神社",
+   "sens": "sanctuaire (社 connu, 神 = dieu)",
+   "lecon": "L39",
+   "ligne": 4742
+  },
+  {
+   "mot": "七人の侍",
+   "sens": "Les Sept Samouraïs",
+   "lecon": "L39",
+   "ligne": 4743
+  },
+  {
+   "mot": "富士山",
+   "sens": "mont Fuji",
+   "lecon": "L39",
+   "ligne": 4744
+  },
+  {
+   "mot": "乗車中",
+   "sens": "en service (train)",
+   "lecon": "L39",
+   "ligne": 4745
+  },
+  {
+   "mot": "お正月",
+   "sens": "Nouvel An",
+   "lecon": "L39",
+   "ligne": 4751
+  },
+  {
+   "mot": "初詣",
+   "sens": "1re visite au sanctuaire",
+   "lecon": "L39",
+   "ligne": 4752
+  },
+  {
+   "mot": "紅白歌合戦",
+   "sens": "émission du 31 décembre",
+   "lecon": "L39",
+   "ligne": 4753
+  },
+  {
+   "mot": "お年玉",
+   "sens": "enveloppe d'argent (enfants)",
+   "lecon": "L39",
+   "ligne": 4754
+  },
+  {
+   "mot": "節分",
+   "sens": "fête du lancer de haricots (3 fév)",
+   "lecon": "L39",
+   "ligne": 4755
+  },
+  {
+   "mot": "鬼は外！福は内！",
+   "sens": "démons dehors, bonheur dedans",
+   "lecon": "L39",
+   "ligne": 4756
+  },
+  {
+   "mot": "花見",
+   "sens": "hanami",
+   "lecon": "L39",
+   "ligne": 4757
+  },
+  {
+   "mot": "梅雨",
+   "sens": "saison des pluies",
+   "lecon": "L39",
+   "ligne": 4758
+  },
+  {
+   "mot": "お盆",
+   "sens": "fête des morts (août)",
+   "lecon": "L39",
+   "ligne": 4759
+  },
+  {
+   "mot": "盆踊り",
+   "sens": "danses d'Obon",
+   "lecon": "L39",
+   "ligne": 4760
+  },
+  {
+   "mot": "紅葉狩り",
+   "sens": "chasse aux feuilles d'automne",
+   "lecon": "L39",
+   "ligne": 4761
+  },
+  {
+   "mot": "季節感",
+   "sens": "sens de la saison",
+   "lecon": "L39",
+   "ligne": 4762
+  },
+  {
+   "mot": "蒸し暑い",
+   "sens": "chaud et humide",
+   "lecon": "L39",
+   "ligne": 4763
+  },
+  {
+   "mot": "紫陽花／あじさい",
+   "sens": "hortensia",
+   "lecon": "L39",
+   "ligne": 4764
+  },
+  {
+   "mot": "定食",
+   "sens": "menu complet",
+   "lecon": "L39",
+   "ligne": 4765
+  },
+  {
+   "mot": "丼",
+   "sens": "bol garni",
+   "lecon": "L39",
+   "ligne": 4766
+  },
+  {
+   "mot": "牛丼",
+   "sens": "bol de bœuf",
+   "lecon": "L39",
+   "ligne": 4767
+  },
+  {
+   "mot": "親子丼",
+   "sens": "bol poulet-œuf",
+   "lecon": "L39",
+   "ligne": 4768
+  },
+  {
+   "mot": "居酒屋",
+   "sens": "bistrot japonais",
+   "lecon": "L39",
+   "ligne": 4769
+  },
+  {
+   "mot": "喫茶店",
+   "sens": "café à l'ancienne",
+   "lecon": "L39",
+   "ligne": 4770
+  },
+  {
+   "mot": "デパ地下",
+   "sens": "sous-sol alimentaire",
+   "lecon": "L39",
+   "ligne": 4771
+  },
+  {
+   "mot": "半額",
+   "sens": "moitié prix",
+   "lecon": "L39",
+   "ligne": 4772
+  },
+  {
+   "mot": "お通し",
+   "sens": "amuse-bouche d'office",
+   "lecon": "L39",
+   "ligne": 4773
+  },
+  {
+   "mot": "枝豆",
+   "sens": "edamame",
+   "lecon": "L39",
+   "ligne": 4774
+  },
+  {
+   "mot": "乾杯",
+   "sens": "santé !",
+   "lecon": "L39",
+   "ligne": 4775
+  },
+  {
+   "mot": "東京物語",
+   "sens": "Tokyo Story (Ozu)",
+   "lecon": "L39",
+   "ligne": 4776
+  },
+  {
+   "mot": "男はつらいよ",
+   "sens": "la saga Tora-san",
+   "lecon": "L39",
+   "ligne": 4777
+  },
+  {
+   "mot": "寅さん",
+   "sens": "Tora-san",
+   "lecon": "L39",
+   "ligne": 4778
+  },
+  {
+   "mot": "柴又",
+   "sens": "Shibamata (quartier de Tora-san)",
+   "lecon": "L39",
+   "ligne": 4779
+  },
+  {
+   "mot": "万引き家族",
+   "sens": "Une affaire de famille",
+   "lecon": "L39",
+   "ligne": 4780
+  },
+  {
+   "mot": "おくりびと",
+   "sens": "Departures",
+   "lecon": "L39",
+   "ligne": 4781
+  },
+  {
+   "mot": "邦画／洋画",
+   "sens": "cinéma japonais / occidental",
+   "lecon": "L39",
+   "ligne": 4782
+  },
+  {
+   "mot": "物の哀れ／もののあわれ",
+   "sens": "mélancolie de l'éphémère",
+   "lecon": "L39",
+   "ligne": 4783
+  },
+  {
+   "mot": "伊勢神宮",
+   "sens": "grand sanctuaire d'Ise",
+   "lecon": "L39",
+   "ligne": 4784
+  },
+  {
+   "mot": "熱海",
+   "sens": "Atami",
+   "lecon": "L39",
+   "ligne": 4785
+  },
+  {
+   "mot": "金沢",
+   "sens": "Kanazawa",
+   "lecon": "L39",
+   "ligne": 4786
+  },
+  {
+   "mot": "別府",
+   "sens": "Beppu",
+   "lecon": "L39",
+   "ligne": 4787
+  },
+  {
+   "mot": "地獄めぐり",
+   "sens": "tour des \"enfers\" (Beppu)",
+   "lecon": "L39",
+   "ligne": 4788
+  },
+  {
+   "mot": "四国お遍路",
+   "sens": "pèlerinage des 88 temples",
+   "lecon": "L39",
+   "ligne": 4789
+  },
+  {
+   "mot": "お接待",
+   "sens": "hospitalité aux pèlerins",
+   "lecon": "L39",
+   "ligne": 4790
+  },
+  {
+   "mot": "日光",
+   "sens": "Nikkō",
+   "lecon": "L39",
+   "ligne": 4791
+  },
+  {
+   "mot": "無宗教",
+   "sens": "sans religion",
+   "lecon": "L39",
+   "ligne": 4792
+  },
+  {
+   "mot": "鳥居",
+   "sens": "portique de sanctuaire",
+   "lecon": "L39",
+   "ligne": 4793
+  },
+  {
+   "mot": "手水舎",
+   "sens": "pavillon de purification",
+   "lecon": "L39",
+   "ligne": 4794
+  },
+  {
+   "mot": "二礼二拍手一礼",
+   "sens": "2 saluts, 2 claquements, 1 salut",
+   "lecon": "L39",
+   "ligne": 4795
+  },
+  {
+   "mot": "ご縁",
+   "sens": "lien du destin (jeu de mots 5円)",
+   "lecon": "L39",
+   "ligne": 4796
+  },
+  {
+   "mot": "おみくじ",
+   "sens": "tirage de fortune",
+   "lecon": "L39",
+   "ligne": 4797
+  },
+  {
+   "mot": "大吉／凶",
+   "sens": "grande chance / mauvaise fortune",
+   "lecon": "L39",
+   "ligne": 4798
+  },
+  {
+   "mot": "御朱印（帳）",
+   "sens": "sceau de temple (carnet)",
+   "lecon": "L39",
+   "ligne": 4799
+  },
+  {
+   "mot": "木漏れ日",
+   "sens": "lumière à travers les feuilles",
+   "lecon": "L39",
+   "ligne": 4800
+  },
+  {
+   "mot": "懐かしい",
+   "sens": "nostalgie heureuse",
+   "lecon": "L39",
+   "ligne": 4801
+  },
+  {
+   "mot": "積ん読",
+   "sens": "livres empilés non lus",
+   "lecon": "L39",
+   "ligne": 4802
+  },
+  {
+   "mot": "森林浴",
+   "sens": "bain de forêt",
+   "lecon": "L39",
+   "ligne": 4803
+  },
+  {
+   "mot": "生きがい",
+   "sens": "raison de vivre",
+   "lecon": "L39",
+   "ligne": 4804
+  },
+  {
+   "mot": "甘え",
+   "sens": "douce dépendance",
+   "lecon": "L39",
+   "ligne": 4805
+  },
+  {
+   "mot": "空気を読む",
+   "sens": "lire l'ambiance",
+   "lecon": "L39",
+   "ligne": 4806
+  },
+  {
+   "mot": "四字熟語",
+   "sens": "expression en 4 kanjis",
+   "lecon": "L39",
+   "ligne": 4807
+  },
+  {
+   "mot": "一期一会",
+   "sens": "une vie, une rencontre",
+   "lecon": "L39",
+   "ligne": 4808
+  },
+  {
+   "mot": "七転び八起き",
+   "sens": "tombe 7 fois, lève-toi 8",
+   "lecon": "L39",
+   "ligne": 4809
+  },
+  {
+   "mot": "十人十色",
+   "sens": "10 personnes, 10 couleurs",
+   "lecon": "L39",
+   "ligne": 4810
+  },
+  {
+   "mot": "温故知新",
+   "sens": "du vieux naît le neuf",
+   "lecon": "L39",
+   "ligne": 4812
+  },
+  {
+   "mot": "猿も木から落ちる",
+   "sens": "même les singes tombent des arbres",
+   "lecon": "L39",
+   "ligne": 4813
+  },
+  {
+   "mot": "石の上にも三年",
+   "sens": "la persévérance paie",
+   "lecon": "L39",
+   "ligne": 4814
+  },
+  {
+   "mot": "標準語",
+   "sens": "japonais standard",
+   "lecon": "L39",
+   "ligne": 4815
+  },
+  {
+   "mot": "関西弁",
+   "sens": "dialecte du Kansai",
+   "lecon": "L39",
+   "ligne": 4816
+  },
+  {
+   "mot": "漫才",
+   "sens": "duo comique",
+   "lecon": "L39",
+   "ligne": 4817
+  },
+  {
+   "mot": "銭湯",
+   "sens": "bain public",
+   "lecon": "L39",
+   "ligne": 4818
+  },
+  {
+   "mot": "温泉",
+   "sens": "source chaude",
+   "lecon": "L39",
+   "ligne": 4819
+  },
+  {
+   "mot": "裸の付き合い",
+   "sens": "relation à nu",
+   "lecon": "L39",
+   "ligne": 4820
+  },
+  {
+   "mot": "露天風呂",
+   "sens": "bain extérieur",
+   "lecon": "L39",
+   "ligne": 4821
+  },
+  {
+   "mot": "貸切",
+   "sens": "privatisé",
+   "lecon": "L39",
+   "ligne": 4822
+  },
+  {
+   "mot": "野球",
+   "sens": "baseball",
+   "lecon": "L39",
+   "ligne": 4823
+  },
+  {
+   "mot": "甲子園",
+   "sens": "tournoi lycéen de baseball",
+   "lecon": "L39",
+   "ligne": 4824
+  },
+  {
+   "mot": "演歌",
+   "sens": "chanson traditionnelle",
+   "lecon": "L39",
+   "ligne": 4825
+  },
+  {
+   "mot": "美空ひばり",
+   "sens": "Misora Hibari",
+   "lecon": "L39",
+   "ligne": 4826
+  },
+  {
+   "mot": "川の流れのように",
+   "sens": "\"Comme le cours de la rivière\"",
+   "lecon": "L39",
+   "ligne": 4827
+  },
+  {
+   "mot": "飲み放題",
+   "sens": "boissons à volonté",
+   "lecon": "L39",
+   "ligne": 4828
+  },
+  {
+   "mot": "バラエティ／テロップ",
+   "sens": "émissions de variétés / sous-titres TV",
+   "lecon": "L39",
+   "ligne": 4829
+  },
+  {
+   "mot": "営業中",
+   "sens": "ouvert",
+   "lecon": "L49",
+   "ligne": 5159
+  },
+  {
+   "mot": "準備中",
+   "sens": "fermé (en préparation)",
+   "lecon": "L49",
+   "ligne": 5160
+  },
+  {
+   "mot": "本日",
+   "sens": "aujourd'hui",
+   "lecon": "L49",
+   "ligne": 5161
+  },
+  {
+   "mot": "定休日",
+   "sens": "jour de fermeture",
+   "lecon": "L49",
+   "ligne": 5162
+  },
+  {
+   "mot": "お手洗い／化粧室",
+   "sens": "toilettes",
+   "lecon": "L49",
+   "ligne": 5163
+  },
+  {
+   "mot": "はい／うん",
+   "sens": "oui / ouais",
+   "lecon": "L49",
+   "ligne": 5304
+  },
+  {
+   "mot": "そうですか",
+   "sens": "ah bon ? (poli)",
+   "lecon": "L49",
+   "ligne": 5305
+  },
+  {
+   "mot": "そうなんだ",
+   "sens": "ah d'accord ! (détendu)",
+   "lecon": "L49",
+   "ligne": 5306
+  },
+  {
+   "mot": "そうそう",
+   "sens": "c'est ça, exactement",
+   "lecon": "L49",
+   "ligne": 5307
+  },
+  {
+   "mot": "へえ〜",
+   "sens": "ouah, je vois",
+   "lecon": "L49",
+   "ligne": 5308
+  },
+  {
+   "mot": "めっちゃ",
+   "sens": "« super / trop / grave »",
+   "lecon": "L49",
+   "ligne": 5316
+  },
+  {
+   "mot": "めっちゃウケる／めっちゃ笑った",
+   "sens": "« c'est trop drôle / j'ai trop ri »",
+   "lecon": "L49",
+   "ligne": 5317
+  },
+  {
+   "mot": "やっと",
+   "sens": "« enfin » (après attente ou effort)",
+   "lecon": "L49",
+   "ligne": 5318
+  },
+  {
+   "mot": "それにしても",
+   "sens": "« n'empêche / quand même / cela dit »",
+   "lecon": "L49",
+   "ligne": 5319
+  },
+  {
+   "mot": "だから",
+   "sens": "« du coup / c'est pour ça »",
+   "lecon": "L49",
+   "ligne": 5320
+  },
+  {
+   "mot": "だって",
+   "sens": "« mais… / parce que… » (protestation)",
+   "lecon": "L49",
+   "ligne": 5321
+  },
+  {
+   "mot": "そういうこと（さ）",
+   "sens": "« voilà, c'est ça / c'est comme ça »",
+   "lecon": "L49",
+   "ligne": 5322
+  },
+  {
+   "mot": "出口／入口",
+   "sens": "sortie / entrée",
+   "lecon": "L49",
+   "ligne": 5353
+  },
+  {
+   "mot": "営業中／準備中",
+   "sens": "ouvert / fermé",
+   "lecon": "L49",
+   "ligne": 5354
+  },
+  {
+   "mot": "無料",
+   "sens": "gratuit",
+   "lecon": "L49",
+   "ligne": 5355
+  },
+  {
+   "mot": "危険／注意",
+   "sens": "danger / attention",
+   "lecon": "L49",
+   "ligne": 5356
+  },
+  {
+   "mot": "化粧室",
+   "sens": "toilettes",
+   "lecon": "L49",
+   "ligne": 5357
+  },
+  {
+   "mot": "注文する",
+   "sens": "commander",
+   "lecon": "L49",
+   "ligne": 5488
+  },
+  {
+   "mot": "頼む",
+   "sens": "commander, demander",
+   "lecon": "L49",
+   "ligne": 5489
+  },
+  {
+   "mot": "食べる",
+   "sens": "manger",
+   "lecon": "L49",
+   "ligne": 5490
+  },
+  {
+   "mot": "入れる",
+   "sens": "mettre, ajouter",
+   "lecon": "L49",
+   "ligne": 5491
+  },
+  {
+   "mot": "選ぶ",
+   "sens": "choisir",
+   "lecon": "L49",
+   "ligne": 5492
+  },
+  {
+   "mot": "替える",
+   "sens": "remplacer, changer",
+   "lecon": "L49",
+   "ligne": 5493
+  },
+  {
+   "mot": "払う",
+   "sens": "payer (déjà acquis)",
+   "lecon": "L49",
+   "ligne": 5494
+  },
+  {
+   "mot": "味噌ラーメンをおねがいします",
+   "sens": "Un ramen miso s'il vous plaît",
+   "lecon": "L49",
+   "ligne": 5513
+  },
+  {
+   "mot": "麺はかためでおねがいします",
+   "sens": "Les nouilles plutôt dures",
+   "lecon": "L49",
+   "ligne": 5514
+  },
+  {
+   "mot": "替え玉おねがいします！",
+   "sens": "Une portion de nouilles en plus !",
+   "lecon": "L49",
+   "ligne": 5515
+  },
+  {
+   "mot": "にんにく抜きでおねがいします",
+   "sens": "Sans ail s'il vous plaît",
+   "lecon": "L49",
+   "ligne": 5516
+  },
+  {
+   "mot": "大盛りでおねがいします",
+   "sens": "En grande portion",
+   "lecon": "L49",
+   "ligne": 5517
+  },
+  {
+   "mot": "お水はどこですか",
+   "sens": "Où est l'eau ?",
+   "lecon": "L49",
+   "ligne": 5518
+  },
+  {
+   "mot": "ごちそうさまでした",
+   "sens": "C'était un festin (en partant)",
+   "lecon": "L49",
+   "ligne": 5519
+  },
+  {
+   "mot": "お水をおねがいします",
+   "sens": "de l'eau svp",
+   "lecon": "L48",
+   "ligne": 5577
+  },
+  {
+   "mot": "コーヒーと、お水もいただけますか",
+   "sens": "un café, et de l'eau aussi",
+   "lecon": "L48",
+   "ligne": 5578
+  },
+  {
+   "mot": "別のをおねがいします",
+   "sens": "un autre (différent)",
+   "lecon": "L48",
+   "ligne": 5579
+  },
+  {
+   "mot": "おすすめは何ですか",
+   "sens": "votre reco ?",
+   "lecon": "L48",
+   "ligne": 5580
+  },
+  {
+   "mot": "〜抜きで",
+   "sens": "sans 〜",
+   "lecon": "L48",
+   "ligne": 5581
+  },
+  {
+   "mot": "〜はどこですか",
+   "sens": "où est… ?",
+   "lecon": "L49",
+   "ligne": 5590
+  },
+  {
+   "mot": "まっすぐ / みぎ / ひだり",
+   "sens": "tout droit / droite / gauche",
+   "lecon": "L49",
+   "ligne": 5591
+  },
+  {
+   "mot": "〜までおねがいします",
+   "sens": "jusqu'à 〜 (taxi)",
+   "lecon": "L49",
+   "ligne": 5592
+  },
+  {
+   "mot": "つぎは〜 / まもなく",
+   "sens": "prochain… / bientôt (annonces)",
+   "lecon": "L49",
+   "ligne": 5593
+  },
+  {
+   "mot": "道に迷いました",
+   "sens": "je suis perdu",
+   "lecon": "L49",
+   "ligne": 5598
+  },
+  {
+   "mot": "気分が悪いんです",
+   "sens": "je me sens mal",
+   "lecon": "L49",
+   "ligne": 5599
+  },
+  {
+   "mot": "たすけてください",
+   "sens": "aidez-moi",
+   "lecon": "L49",
+   "ligne": 5600
+  },
+  {
+   "mot": "〜をなくしました",
+   "sens": "j'ai perdu 〜",
+   "lecon": "L49",
+   "ligne": 5601
+  },
+  {
+   "mot": "そうですか / そうなんだ",
+   "sens": "ah bon ? (aizuchi)",
+   "lecon": "L49",
+   "ligne": 5606
+  },
+  {
+   "mot": "めっちゃ",
+   "sens": "super, trop",
+   "lecon": "L49",
+   "ligne": 5607
+  },
+  {
+   "mot": "やっと",
+   "sens": "enfin",
+   "lecon": "L49",
+   "ligne": 5608
+  },
+  {
+   "mot": "ね / よ / さ",
+   "sens": "particules de fin (lien)",
+   "lecon": "L49",
+   "ligne": 5609
+  },
+  {
+   "mot": "けど",
+   "sens": "mais (fin de phrase)",
+   "lecon": "L52",
+   "ligne": 5640
+  },
+  {
+   "mot": "だけど",
+   "sens": "mais (début)",
+   "lecon": "L52",
+   "ligne": 5641
+  },
+  {
+   "mot": "けれど",
+   "sens": "mais",
+   "lecon": "L52",
+   "ligne": 5642
+  },
+  {
+   "mot": "けれども",
+   "sens": "cependant",
+   "lecon": "L52",
+   "ligne": 5643
+  },
+  {
+   "mot": "でも",
+   "sens": "mais, pourtant",
+   "lecon": "L52",
+   "ligne": 5644
+  },
+  {
+   "mot": "しかし",
+   "sens": "cependant",
+   "lecon": "L52",
+   "ligne": 5645
+  },
+  {
+   "mot": "ところが",
+   "sens": "or, pourtant (surprise)",
+   "lecon": "L52",
+   "ligne": 5646
+  },
+  {
+   "mot": "のに",
+   "sens": "alors que (regret)",
+   "lecon": "L52",
+   "ligne": 5647
+  },
+  {
+   "mot": "くせに",
+   "sens": "alors que (reproche)",
+   "lecon": "L52",
+   "ligne": 5648
+  },
+  {
+   "mot": "それでも",
+   "sens": "malgré ça, quand même",
+   "lecon": "L52",
+   "ligne": 5649
+  },
+  {
+   "mot": "とはいえ",
+   "sens": "cela dit",
+   "lecon": "L52",
+   "ligne": 5650
+  },
+  {
+   "mot": "ただ",
+   "sens": "seulement, cela dit",
+   "lecon": "L52",
+   "ligne": 5651
+  },
+  {
+   "mot": "ただし",
+   "sens": "toutefois (condition)",
+   "lecon": "L52",
+   "ligne": 5652
+  },
+  {
+   "mot": "一方で",
+   "sens": "d'un autre côté",
+   "lecon": "L52",
+   "ligne": 5653
+  },
+  {
+   "mot": "逆に",
+   "sens": "à l'inverse",
+   "lecon": "L52",
+   "ligne": 5654
+  },
+  {
+   "mot": "それにしても",
+   "sens": "n'empêche, quand même",
+   "lecon": "L52",
+   "ligne": 5655
+  },
+  {
+   "mot": "だから",
+   "sens": "donc, c'est pourquoi",
+   "lecon": "L52",
+   "ligne": 5660
+  },
+  {
+   "mot": "ですから",
+   "sens": "donc",
+   "lecon": "L52",
+   "ligne": 5661
+  },
+  {
+   "mot": "それで",
+   "sens": "et donc, alors",
+   "lecon": "L52",
+   "ligne": 5662
+  },
+  {
+   "mot": "なので",
+   "sens": "donc",
+   "lecon": "L52",
+   "ligne": 5663
+  },
+  {
+   "mot": "から",
+   "sens": "parce que (raison)",
+   "lecon": "L52",
+   "ligne": 5664
+  },
+  {
+   "mot": "ので",
+   "sens": "comme, parce que (doux)",
+   "lecon": "L52",
+   "ligne": 5665
+  },
+  {
+   "mot": "そのため",
+   "sens": "pour cette raison",
+   "lecon": "L52",
+   "ligne": 5666
+  },
+  {
+   "mot": "したがって",
+   "sens": "par conséquent",
+   "lecon": "L52",
+   "ligne": 5667
+  },
+  {
+   "mot": "よって",
+   "sens": "donc (logique)",
+   "lecon": "L52",
+   "ligne": 5668
+  },
+  {
+   "mot": "その結果",
+   "sens": "en conséquence",
+   "lecon": "L52",
+   "ligne": 5669
+  },
+  {
+   "mot": "おかげで",
+   "sens": "grâce à (positif)",
+   "lecon": "L52",
+   "ligne": 5670
+  },
+  {
+   "mot": "せいで",
+   "sens": "à cause de (négatif)",
+   "lecon": "L52",
+   "ligne": 5671
+  },
+  {
+   "mot": "だからこそ",
+   "sens": "c'est justement pour ça",
+   "lecon": "L52",
+   "ligne": 5672
+  },
+  {
+   "mot": "ということで",
+   "sens": "donc, sur ce",
+   "lecon": "L52",
+   "ligne": 5673
+  },
+  {
+   "mot": "すると",
+   "sens": "sur ce, alors",
+   "lecon": "L52",
+   "ligne": 5674
+  },
+  {
+   "mot": "それなら",
+   "sens": "dans ce cas",
+   "lecon": "L52",
+   "ligne": 5675
+  },
+  {
+   "mot": "そして",
+   "sens": "et puis, ensuite",
+   "lecon": "L52",
+   "ligne": 5680
+  },
+  {
+   "mot": "それから",
+   "sens": "ensuite, et après",
+   "lecon": "L52",
+   "ligne": 5681
+  },
+  {
+   "mot": "それに",
+   "sens": "en plus, de plus",
+   "lecon": "L52",
+   "ligne": 5682
+  },
+  {
+   "mot": "しかも",
+   "sens": "qui plus est",
+   "lecon": "L52",
+   "ligne": 5683
+  },
+  {
+   "mot": "さらに",
+   "sens": "en outre",
+   "lecon": "L52",
+   "ligne": 5684
+  },
+  {
+   "mot": "また",
+   "sens": "aussi, de nouveau",
+   "lecon": "L52",
+   "ligne": 5685
+  },
+  {
+   "mot": "それと",
+   "sens": "et aussi (oral)",
+   "lecon": "L52",
+   "ligne": 5686
+  },
+  {
+   "mot": "あと",
+   "sens": "et aussi",
+   "lecon": "L52",
+   "ligne": 5687
+  },
+  {
+   "mot": "おまけに",
+   "sens": "par-dessus le marché",
+   "lecon": "L52",
+   "ligne": 5688
+  },
+  {
+   "mot": "その上",
+   "sens": "de surcroît",
+   "lecon": "L52",
+   "ligne": 5689
+  },
+  {
+   "mot": "ついでに",
+   "sens": "tant qu'à faire, au passage",
+   "lecon": "L52",
+   "ligne": 5690
+  },
+  {
+   "mot": "まず",
+   "sens": "d'abord",
+   "lecon": "L52",
+   "ligne": 5691
+  },
+  {
+   "mot": "次に",
+   "sens": "ensuite",
+   "lecon": "L52",
+   "ligne": 5692
+  },
+  {
+   "mot": "最後に",
+   "sens": "enfin, pour finir",
+   "lecon": "L52",
+   "ligne": 5693
+  },
+  {
+   "mot": "つまり",
+   "sens": "autrement dit, bref",
+   "lecon": "L52",
+   "ligne": 5694
+  },
+  {
+   "mot": "要するに",
+   "sens": "en gros, en somme",
+   "lecon": "L52",
+   "ligne": 5695
+  },
+  {
+   "mot": "あの",
+   "sens": "euh, dis (amorce)",
+   "lecon": "L52",
+   "ligne": 5700
+  },
+  {
+   "mot": "ええと",
+   "sens": "euh (réflexion)",
+   "lecon": "L52",
+   "ligne": 5701
+  },
+  {
+   "mot": "なんか",
+   "sens": "genre, un truc",
+   "lecon": "L52",
+   "ligne": 5702
+  },
+  {
+   "mot": "まあ",
+   "sens": "bon, enfin, disons",
+   "lecon": "L52",
+   "ligne": 5703
+  },
+  {
+   "mot": "やっぱり",
+   "sens": "finalement, comme prévu",
+   "lecon": "L52",
+   "ligne": 5704
+  },
+  {
+   "mot": "とにかく",
+   "sens": "bref, en tout cas",
+   "lecon": "L52",
+   "ligne": 5705
+  },
+  {
+   "mot": "実は",
+   "sens": "en fait, à vrai dire",
+   "lecon": "L52",
+   "ligne": 5706
+  },
+  {
+   "mot": "ちなみに",
+   "sens": "au fait, à propos",
+   "lecon": "L52",
+   "ligne": 5707
+  },
+  {
+   "mot": "というか",
+   "sens": "ou plutôt, enfin",
+   "lecon": "L52",
+   "ligne": 5708
+  },
+  {
+   "mot": "たしかに",
+   "sens": "c'est vrai, en effet",
+   "lecon": "L52",
+   "ligne": 5709
+  },
+  {
+   "mot": "なるほど",
+   "sens": "je vois, en effet",
+   "lecon": "L52",
+   "ligne": 5710
+  },
+  {
+   "mot": "ところで",
+   "sens": "au fait (change de sujet)",
+   "lecon": "L52",
+   "ligne": 5711
+  },
+  {
+   "mot": "そういえば",
+   "sens": "maintenant que tu le dis",
+   "lecon": "L52",
+   "ligne": 5712
+  },
+  {
+   "mot": "とりあえず",
+   "sens": "pour l'instant, en attendant",
+   "lecon": "L52",
+   "ligne": 5713
+  },
+  {
+   "mot": "ぶっちゃけ",
+   "sens": "franchement, pour être cash",
+   "lecon": "L52",
+   "ligne": 5714
+  },
+  {
+   "mot": "よし",
+   "sens": "bon ! allez ! (avant d'agir)",
+   "lecon": "L52",
+   "ligne": 5715
+  },
+  {
+   "mot": "する",
+   "sens": "faire",
+   "lecon": "L76",
+   "ligne": 6149
+  },
+  {
+   "mot": "ねる",
+   "sens": "dormir",
+   "lecon": "L76",
+   "ligne": 6150
+  },
+  {
+   "mot": "もつ",
+   "sens": "tenir, porter",
+   "lecon": "L76",
+   "ligne": 6151
+  },
+  {
+   "mot": "しる",
+   "sens": "savoir, connaître",
+   "lecon": "L76",
+   "ligne": 6152
+  },
+  {
+   "mot": "とる",
+   "sens": "prendre",
+   "lecon": "L76",
+   "ligne": 6153
+  },
+  {
+   "mot": "のむ",
+   "sens": "boire",
+   "lecon": "L76",
+   "ligne": 6154
+  },
+  {
+   "mot": "いく",
+   "sens": "aller",
+   "lecon": "L76",
+   "ligne": 6155
+  },
+  {
+   "mot": "たべる",
+   "sens": "manger",
+   "lecon": "L76",
+   "ligne": 6156
+  },
+  {
+   "mot": "かう",
+   "sens": "acheter",
+   "lecon": "L76",
+   "ligne": 6157
+  },
+  {
+   "mot": "かく",
+   "sens": "écrire",
+   "lecon": "L76",
+   "ligne": 6158
+  },
+  {
+   "mot": "およぐ",
+   "sens": "nager",
+   "lecon": "L76",
+   "ligne": 6159
+  },
+  {
+   "mot": "はなす",
+   "sens": "parler",
+   "lecon": "L76",
+   "ligne": 6160
+  },
+  {
+   "mot": "まつ",
+   "sens": "attendre",
+   "lecon": "L76",
+   "ligne": 6161
+  },
+  {
+   "mot": "しぬ",
+   "sens": "mourir",
+   "lecon": "L76",
+   "ligne": 6162
+  },
+  {
+   "mot": "あそぶ",
+   "sens": "jouer, s'amuser",
+   "lecon": "L76",
+   "ligne": 6163
+  },
+  {
+   "mot": "くる",
+   "sens": "venir",
+   "lecon": "L76",
+   "ligne": 6164
+  },
+  {
+   "mot": "行く（いける）",
+   "sens": "pouvoir aller",
+   "lecon": "L109",
+   "ligne": 6899
+  },
+  {
+   "mot": "話す（はなせる）",
+   "sens": "pouvoir parler",
+   "lecon": "L109",
+   "ligne": 6900
+  },
+  {
+   "mot": "飲む（のめる）",
+   "sens": "pouvoir boire",
+   "lecon": "L109",
+   "ligne": 6901
+  },
+  {
+   "mot": "買う（かえる）",
+   "sens": "pouvoir acheter",
+   "lecon": "L109",
+   "ligne": 6902
+  },
+  {
+   "mot": "待つ（まてる）",
+   "sens": "pouvoir attendre",
+   "lecon": "L109",
+   "ligne": 6903
+  },
+  {
+   "mot": "使う（つかえる）",
+   "sens": "pouvoir utiliser",
+   "lecon": "L109",
+   "ligne": 6904
+  },
+  {
+   "mot": "書く（かける）",
+   "sens": "pouvoir écrire",
+   "lecon": "L109",
+   "ligne": 6905
+  },
+  {
+   "mot": "読む（よめる）",
+   "sens": "pouvoir lire",
+   "lecon": "L109",
+   "ligne": 6906
+  },
+  {
+   "mot": "泳ぐ（およげる）",
+   "sens": "pouvoir nager",
+   "lecon": "L109",
+   "ligne": 6907
+  },
+  {
+   "mot": "遊ぶ（あそべる）",
+   "sens": "pouvoir s'amuser, sortir",
+   "lecon": "L109",
+   "ligne": 6908
+  },
+  {
+   "mot": "会う（あえる）",
+   "sens": "pouvoir rencontrer",
+   "lecon": "L109",
+   "ligne": 6909
+  },
+  {
+   "mot": "作る（つくれる）",
+   "sens": "pouvoir fabriquer, cuisiner",
+   "lecon": "L109",
+   "ligne": 6910
+  },
+  {
+   "mot": "取る（とれる）",
+   "sens": "pouvoir prendre, réserver",
+   "lecon": "L109",
+   "ligne": 6911
+  },
+  {
+   "mot": "払う（はらえる）",
+   "sens": "pouvoir payer",
+   "lecon": "L109",
+   "ligne": 6912
+  },
+  {
+   "mot": "食べる（たべられる / たべれる）",
+   "sens": "pouvoir manger",
+   "lecon": "L109",
+   "ligne": 6913
+  },
+  {
+   "mot": "見る（みられる / みれる）",
+   "sens": "pouvoir voir, regarder",
+   "lecon": "L109",
+   "ligne": 6914
+  },
+  {
+   "mot": "寝る（ねられる / ねれる）",
+   "sens": "pouvoir dormir",
+   "lecon": "L109",
+   "ligne": 6915
+  },
+  {
+   "mot": "起きる（おきられる / おきれる）",
+   "sens": "pouvoir se réveiller",
+   "lecon": "L109",
+   "ligne": 6916
+  },
+  {
+   "mot": "覚える（おぼえられる / おぼえれる）",
+   "sens": "pouvoir mémoriser",
+   "lecon": "L109",
+   "ligne": 6917
+  },
+  {
+   "mot": "決める（きめられる / きめれる）",
+   "sens": "pouvoir décider",
+   "lecon": "L109",
+   "ligne": 6918
+  },
+  {
+   "mot": "する（できる）",
+   "sens": "pouvoir faire",
+   "lecon": "L109",
+   "ligne": 6919
+  },
+  {
+   "mot": "来る（こられる）",
+   "sens": "pouvoir venir",
+   "lecon": "L109",
+   "ligne": 6920
+  },
+  {
+   "mot": "めっちゃ",
+   "sens": "hyper, trop, archi (oral familier)",
+   "lecon": "L110",
+   "ligne": 6977
+  },
+  {
+   "mot": "実は（じつは）",
+   "sens": "en fait, à vrai dire",
+   "lecon": "L110",
+   "ligne": 6978
+  },
+  {
+   "mot": "確かに（たしかに）",
+   "sens": "tout à fait, c'est bien vrai",
+   "lecon": "L110",
+   "ligne": 6979
+  },
+  {
+   "mot": "なるほど",
+   "sens": "je vois, c'est logique",
+   "lecon": "L110",
+   "ligne": 6980
+  },
+  {
+   "mot": "楽しむ（たのしむ）",
+   "sens": "profiter, passer un bon moment",
+   "lecon": "L110",
+   "ligne": 6981
+  },
+  {
+   "mot": "嬉しい（うれしい）",
+   "sens": "heureux, content",
+   "lecon": "L110",
+   "ligne": 6982
+  },
+  {
+   "mot": "懐かしい（なつかしい）",
+   "sens": "nostalgique, de bons souvenirs",
+   "lecon": "L110",
+   "ligne": 6983
+  },
+  {
+   "mot": "珍しい（めずらしい）",
+   "sens": "rare, inhabituel",
+   "lecon": "L110",
+   "ligne": 6984
+  },
+  {
+   "mot": "優しい（やさしい）",
+   "sens": "gentil, attentionné",
+   "lecon": "L110",
+   "ligne": 6985
+  },
+  {
+   "mot": "厳しい（きびしい）",
+   "sens": "strict, sévère",
+   "lecon": "L110",
+   "ligne": 6986
+  },
+  {
+   "mot": "面倒（めんどう）",
+   "sens": "pénible, prise de tête",
+   "lecon": "L110",
+   "ligne": 6987
+  },
+  {
+   "mot": "予定（よてい）",
+   "sens": "programme, plan prévu",
+   "lecon": "L110",
+   "ligne": 6988
+  },
+  {
+   "mot": "案内（あんない）",
+   "sens": "guidage, faire visiter",
+   "lecon": "L110",
+   "ligne": 6989
+  },
+  {
+   "mot": "景色（けしき）",
+   "sens": "paysage, vue",
+   "lecon": "L110",
+   "ligne": 6990
+  },
+  {
+   "mot": "おすすめ",
+   "sens": "recommandation",
+   "lecon": "L110",
+   "ligne": 6991
+  },
+  {
+   "mot": "偶然（ぐうぜん）",
+   "sens": "coïncidence, par hasard",
+   "lecon": "L110",
+   "ligne": 6992
+  },
+  {
+   "mot": "突然（とつぜん）",
+   "sens": "soudainement, tout à coup",
+   "lecon": "L110",
+   "ligne": 6993
+  },
+  {
+   "mot": "一緒に（いっしょに）",
+   "sens": "ensemble",
+   "lecon": "L110",
+   "ligne": 6994
+  },
+  {
+   "mot": "別に（べつに）",
+   "sens": "rien de spécial, pas particulièrement",
+   "lecon": "L110",
+   "ligne": 6995
+  },
+  {
+   "mot": "例えば（たとえば）",
+   "sens": "par exemple",
+   "lecon": "L110",
+   "ligne": 6996
+  },
+  {
+   "mot": "遠慮（えんりょ）",
+   "sens": "réserve, gêne, retenue polie",
+   "lecon": "L110",
+   "ligne": 6997
+  },
+  {
+   "mot": "雰囲気（ふんいき）",
+   "sens": "ambiance, atmosphère",
+   "lecon": "L110",
+   "ligne": 6998
+  },
+  {
+   "mot": "気に入る（きにいる）",
+   "sens": "plaire, apprécier, trouver à son goût",
+   "lecon": "L110",
+   "ligne": 6999
+  },
+  {
+   "mot": "気をつける（きをつける）",
+   "sens": "faire attention, prendre soin de soi",
+   "lecon": "L110",
+   "ligne": 7000
+  },
+  {
+   "mot": "助かる（たすかる）",
+   "sens": "être sauvé, ça m'aide énormément",
+   "lecon": "L110",
+   "ligne": 7001
+  }
+ ],
+ "kanji": [
+  {
+   "numero": 1,
+   "kanji": "人",
+   "kun": "Hito",
+   "on": "Jin",
+   "niveau": "N5",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/001-100 N5/001 人 Hito Jin.html"
+  },
+  {
+   "numero": 2,
+   "kanji": "日",
+   "kun": "Hi",
+   "on": "Nichi",
+   "niveau": "N5",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/001-100 N5/002 日 Hi Nichi.html"
+  },
+  {
+   "numero": 3,
+   "kanji": "時",
+   "kun": "Toki",
+   "on": "Ji",
+   "niveau": "N5",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/001-100 N5/003 時 Toki Ji.html"
+  },
+  {
+   "numero": 4,
+   "kanji": "分",
+   "kun": "Wake",
+   "on": "Fun",
+   "niveau": "N5",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/001-100 N5/004 分 Wake Fun.html"
+  },
+  {
+   "numero": 5,
+   "kanji": "円",
+   "kun": "En",
+   "on": "",
+   "niveau": "N5",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/001-100 N5/005 円 En.html"
+  },
+  {
+   "numero": 6,
+   "kanji": "大",
+   "kun": "Oo",
+   "on": "Dai",
+   "niveau": "N5",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/001-100 N5/006 大 Oo Dai.html"
+  },
+  {
+   "numero": 7,
+   "kanji": "今",
+   "kun": "Ima",
+   "on": "Kon",
+   "niveau": "N5",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/001-100 N5/007 今 Ima Kon.html"
+  },
+  {
+   "numero": 8,
+   "kanji": "月",
+   "kun": "Tsuki",
+   "on": "Getsu",
+   "niveau": "N5",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/001-100 N5/008 月 Tsuki Getsu.html"
+  },
+  {
+   "numero": 9,
+   "kanji": "火",
+   "kun": "Hi",
+   "on": "Ka",
+   "niveau": "N5",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/001-100 N5/009 火 Hi Ka.html"
+  },
+  {
+   "numero": 10,
+   "kanji": "水",
+   "kun": "Mizu",
+   "on": "Sui",
+   "niveau": "N5",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/001-100 N5/010 水 Mizu Sui.html"
+  },
+  {
+   "numero": 11,
+   "kanji": "木",
+   "kun": "Ki",
+   "on": "Moku",
+   "niveau": "N5",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/001-100 N5/011 木 Ki Moku.html"
+  },
+  {
+   "numero": 12,
+   "kanji": "一",
+   "kun": "Hito",
+   "on": "Ichi",
+   "niveau": "N5",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/001-100 N5/012 一 Hito Ichi.html"
+  },
+  {
+   "numero": 13,
+   "kanji": "二",
+   "kun": "Futa",
+   "on": "Ni",
+   "niveau": "N5",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/001-100 N5/013 二 Futa Ni.html"
+  },
+  {
+   "numero": 14,
+   "kanji": "三",
+   "kun": "Mi",
+   "on": "San",
+   "niveau": "N5",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/001-100 N5/014 三 Mi San.html"
+  },
+  {
+   "numero": 15,
+   "kanji": "四",
+   "kun": "Yo",
+   "on": "Shi",
+   "niveau": "N5",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/001-100 N5/015 四 Yo Shi.html"
+  },
+  {
+   "numero": 16,
+   "kanji": "五",
+   "kun": "Itsu",
+   "on": "Go",
+   "niveau": "N5",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/001-100 N5/016 五 Itsu Go.html"
+  },
+  {
+   "numero": 17,
+   "kanji": "六",
+   "kun": "Mu",
+   "on": "Roku",
+   "niveau": "N5",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/001-100 N5/017 六 Mu Roku.html"
+  },
+  {
+   "numero": 18,
+   "kanji": "七",
+   "kun": "Nana",
+   "on": "Shichi",
+   "niveau": "N5",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/001-100 N5/018 七 Nana Shichi.html"
+  },
+  {
+   "numero": 19,
+   "kanji": "八",
+   "kun": "Ya",
+   "on": "Hachi",
+   "niveau": "N5",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/001-100 N5/019 八 Ya Hachi.html"
+  },
+  {
+   "numero": 20,
+   "kanji": "九",
+   "kun": "Kokono",
+   "on": "Ku",
+   "niveau": "N5",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/001-100 N5/020 九 Kokono Ku.html"
+  },
+  {
+   "numero": 21,
+   "kanji": "十",
+   "kun": "Too",
+   "on": "Juu",
+   "niveau": "N5",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/001-100 N5/021 十 Too Juu.html"
+  },
+  {
+   "numero": 22,
+   "kanji": "出",
+   "kun": "De",
+   "on": "Shutsu",
+   "niveau": "N5",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/001-100 N5/022 出 De Shutsu.html"
+  },
+  {
+   "numero": 23,
+   "kanji": "入",
+   "kun": "Iri",
+   "on": "Nyuu",
+   "niveau": "N5",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/001-100 N5/023 入 Iri Nyuu.html"
+  },
+  {
+   "numero": 24,
+   "kanji": "口",
+   "kun": "Kuchi",
+   "on": "Kou",
+   "niveau": "N5",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/001-100 N5/024 口 Kuchi Kou.html"
+  },
+  {
+   "numero": 25,
+   "kanji": "山",
+   "kun": "Yama",
+   "on": "San",
+   "niveau": "N5",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/001-100 N5/025 山 Yama San.html"
+  },
+  {
+   "numero": 26,
+   "kanji": "川",
+   "kun": "Kawa",
+   "on": "Sen",
+   "niveau": "N5",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/001-100 N5/026 川 Kawa Sen.html"
+  },
+  {
+   "numero": 27,
+   "kanji": "行",
+   "kun": "Iku",
+   "on": "Kou",
+   "niveau": "N5",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/001-100 N5/027 行 Iku Kou.html"
+  },
+  {
+   "numero": 28,
+   "kanji": "来",
+   "kun": "Kuru",
+   "on": "Rai",
+   "niveau": "N5",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/001-100 N5/028 来 Kuru Rai.html"
+  },
+  {
+   "numero": 29,
+   "kanji": "食",
+   "kun": "Tabe",
+   "on": "Shoku",
+   "niveau": "N5",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/001-100 N5/029 食 Tabe Shoku.html"
+  },
+  {
+   "numero": 30,
+   "kanji": "飲",
+   "kun": "Nomu",
+   "on": "In",
+   "niveau": "N5",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/001-100 N5/030 飲 Nomu In.html"
+  },
+  {
+   "numero": 31,
+   "kanji": "見",
+   "kun": "Miru",
+   "on": "Ken",
+   "niveau": "N5",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/001-100 N5/031 見 Miru Ken.html"
+  },
+  {
+   "numero": 32,
+   "kanji": "気",
+   "kun": "Ki",
+   "on": "",
+   "niveau": "N5",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/001-100 N5/032 気 Ki.html"
+  },
+  {
+   "numero": 33,
+   "kanji": "天",
+   "kun": "Ama",
+   "on": "Ten",
+   "niveau": "N5",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/001-100 N5/033 天 Ama Ten.html"
+  },
+  {
+   "numero": 34,
+   "kanji": "元",
+   "kun": "Moto",
+   "on": "Gen",
+   "niveau": "N5",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/001-100 N5/034 元 Moto Gen.html"
+  },
+  {
+   "numero": 35,
+   "kanji": "年",
+   "kun": "Toshi",
+   "on": "Nen",
+   "niveau": "N5",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/001-100 N5/035 年 Toshi Nen.html"
+  },
+  {
+   "numero": 36,
+   "kanji": "週",
+   "kun": "Shuu",
+   "on": "",
+   "niveau": "N5",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/001-100 N5/036 週 Shuu.html"
+  },
+  {
+   "numero": 37,
+   "kanji": "金",
+   "kun": "Kane",
+   "on": "Kin",
+   "niveau": "N5",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/001-100 N5/037 金 Kane Kin.html"
+  },
+  {
+   "numero": 38,
+   "kanji": "土",
+   "kun": "Tsuchi",
+   "on": "Do",
+   "niveau": "N5",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/001-100 N5/038 土 Tsuchi Do.html"
+  },
+  {
+   "numero": 39,
+   "kanji": "上",
+   "kun": "Ue",
+   "on": "Jou",
+   "niveau": "N5",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/001-100 N5/039 上 Ue Jou.html"
+  },
+  {
+   "numero": 40,
+   "kanji": "下",
+   "kun": "Shita",
+   "on": "Ka",
+   "niveau": "N5",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/001-100 N5/040 下 Shita Ka.html"
+  },
+  {
+   "numero": 41,
+   "kanji": "中",
+   "kun": "Naka",
+   "on": "Chuu",
+   "niveau": "N5",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/001-100 N5/041 中 Naka Chuu.html"
+  },
+  {
+   "numero": 42,
+   "kanji": "前",
+   "kun": "Mae",
+   "on": "Zen",
+   "niveau": "N5",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/001-100 N5/042 前 Mae Zen.html"
+  },
+  {
+   "numero": 43,
+   "kanji": "後",
+   "kun": "Ato",
+   "on": "Go",
+   "niveau": "N5",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/001-100 N5/043 後 Ato Go.html"
+  },
+  {
+   "numero": 44,
+   "kanji": "小",
+   "kun": "Ko",
+   "on": "Shou",
+   "niveau": "N5",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/001-100 N5/044 小 Ko Shou.html"
+  },
+  {
+   "numero": 45,
+   "kanji": "右",
+   "kun": "Migi",
+   "on": "U",
+   "niveau": "N5",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/001-100 N5/045 右 Migi U.html"
+  },
+  {
+   "numero": 46,
+   "kanji": "左",
+   "kun": "Hidari",
+   "on": "Sa",
+   "niveau": "N5",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/001-100 N5/046 左 Hidari Sa.html"
+  },
+  {
+   "numero": 47,
+   "kanji": "女",
+   "kun": "Onna",
+   "on": "Jo",
+   "niveau": "N5",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/001-100 N5/047 女 Onna Jo.html"
+  },
+  {
+   "numero": 48,
+   "kanji": "男",
+   "kun": "Otoko",
+   "on": "Dan",
+   "niveau": "N5",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/001-100 N5/048 男 Otoko Dan.html"
+  },
+  {
+   "numero": 49,
+   "kanji": "百",
+   "kun": "Hyaku",
+   "on": "",
+   "niveau": "N5",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/001-100 N5/049 百 Hyaku.html"
+  },
+  {
+   "numero": 50,
+   "kanji": "千",
+   "kun": "Chi",
+   "on": "Sen",
+   "niveau": "N5",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/001-100 N5/050 千 Chi Sen.html"
+  },
+  {
+   "numero": 51,
+   "kanji": "電",
+   "kun": "Den",
+   "on": "",
+   "niveau": "N5",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/001-100 N5/051 電 Den.html"
+  },
+  {
+   "numero": 52,
+   "kanji": "車",
+   "kun": "Kuruma",
+   "on": "Sha",
+   "niveau": "N5",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/001-100 N5/052 車 Kuruma Sha.html"
+  },
+  {
+   "numero": 53,
+   "kanji": "駅",
+   "kun": "Eki",
+   "on": "",
+   "niveau": "N5",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/001-100 N5/053 駅 Eki.html"
+  },
+  {
+   "numero": 54,
+   "kanji": "空",
+   "kun": "Sora",
+   "on": "Kuu",
+   "niveau": "N5",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/001-100 N5/054 空 Sora Kuu.html"
+  },
+  {
+   "numero": 55,
+   "kanji": "港",
+   "kun": "Minato",
+   "on": "Kou",
+   "niveau": "N5",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/001-100 N5/055 港 Minato Kou.html"
+  },
+  {
+   "numero": 56,
+   "kanji": "国",
+   "kun": "Kuni",
+   "on": "Koku",
+   "niveau": "N5",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/001-100 N5/056 国 Kuni Koku.html"
+  },
+  {
+   "numero": 57,
+   "kanji": "学",
+   "kun": "Mana",
+   "on": "Gaku",
+   "niveau": "N5",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/001-100 N5/057 学 Mana Gaku.html"
+  },
+  {
+   "numero": 58,
+   "kanji": "校",
+   "kun": "Kou",
+   "on": "",
+   "niveau": "N5",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/001-100 N5/058 校 Kou.html"
+  },
+  {
+   "numero": 59,
+   "kanji": "何",
+   "kun": "Nani",
+   "on": "Nan",
+   "niveau": "N5",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/001-100 N5/059 何 Nani Nan.html"
+  },
+  {
+   "numero": 60,
+   "kanji": "道",
+   "kun": "Michi",
+   "on": "Dou",
+   "niveau": "N5",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/001-100 N5/060 道 Michi Dou.html"
+  },
+  {
+   "numero": 61,
+   "kanji": "海",
+   "kun": "Umi",
+   "on": "Kai",
+   "niveau": "N5",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/001-100 N5/061 海 Umi Kai.html"
+  },
+  {
+   "numero": 62,
+   "kanji": "先",
+   "kun": "Saki",
+   "on": "Sen",
+   "niveau": "N5",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/001-100 N5/062 先 Saki Sen.html"
+  },
+  {
+   "numero": 63,
+   "kanji": "生",
+   "kun": "Ikiru",
+   "on": "Sei",
+   "niveau": "N5",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/001-100 N5/063 生 Ikiru Sei.html"
+  },
+  {
+   "numero": 64,
+   "kanji": "名",
+   "kun": "Na",
+   "on": "Mei",
+   "niveau": "N5",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/001-100 N5/064 名 Na Mei.html"
+  },
+  {
+   "numero": 65,
+   "kanji": "高",
+   "kun": "Takai",
+   "on": "Kou",
+   "niveau": "N5",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/001-100 N5/065 高 Takai Kou.html"
+  },
+  {
+   "numero": 66,
+   "kanji": "安",
+   "kun": "Yasui",
+   "on": "An",
+   "niveau": "N5",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/001-100 N5/066 安 Yasui An.html"
+  },
+  {
+   "numero": 67,
+   "kanji": "新",
+   "kun": "Atarashii",
+   "on": "Shin",
+   "niveau": "N5",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/001-100 N5/067 新 Atarashii Shin.html"
+  },
+  {
+   "numero": 68,
+   "kanji": "古",
+   "kun": "Furui",
+   "on": "Ko",
+   "niveau": "N5",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/001-100 N5/068 古 Furui Ko.html"
+  },
+  {
+   "numero": 69,
+   "kanji": "友",
+   "kun": "Tomo",
+   "on": "Yuu",
+   "niveau": "N5",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/001-100 N5/069 友 Tomo Yuu.html"
+  },
+  {
+   "numero": 70,
+   "kanji": "多",
+   "kun": "Oo",
+   "on": "Ta",
+   "niveau": "N5",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/001-100 N5/070 多 Oo Ta.html"
+  },
+  {
+   "numero": 71,
+   "kanji": "少",
+   "kun": "Sukunai",
+   "on": "Shou",
+   "niveau": "N5",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/001-100 N5/071 少 Sukunai Shou.html"
+  },
+  {
+   "numero": 72,
+   "kanji": "長",
+   "kun": "Nagai",
+   "on": "Chou",
+   "niveau": "N5",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/001-100 N5/072 長 Nagai Chou.html"
+  },
+  {
+   "numero": 73,
+   "kanji": "店",
+   "kun": "Mise",
+   "on": "Ten",
+   "niveau": "N5",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/001-100 N5/073 店 Mise Ten.html"
+  },
+  {
+   "numero": 74,
+   "kanji": "読",
+   "kun": "Yomu",
+   "on": "Doku",
+   "niveau": "N5",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/001-100 N5/074 読 Yomu Doku.html"
+  },
+  {
+   "numero": 75,
+   "kanji": "書",
+   "kun": "Kaku",
+   "on": "Sho",
+   "niveau": "N5",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/001-100 N5/075 書 Kaku Sho.html"
+  },
+  {
+   "numero": 76,
+   "kanji": "話",
+   "kun": "Hanasu",
+   "on": "Wa",
+   "niveau": "N5",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/001-100 N5/076 話 Hanasu Wa.html"
+  },
+  {
+   "numero": 77,
+   "kanji": "立",
+   "kun": "Tatsu",
+   "on": "Ritsu",
+   "niveau": "N5",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/001-100 N5/077 立 Tatsu Ritsu.html"
+  },
+  {
+   "numero": 78,
+   "kanji": "休",
+   "kun": "Yasumu",
+   "on": "Kyuu",
+   "niveau": "N5",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/001-100 N5/078 休 Yasumu Kyuu.html"
+  },
+  {
+   "numero": 79,
+   "kanji": "毎",
+   "kun": "Mai",
+   "on": "Mai",
+   "niveau": "N5",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/001-100 N5/079 毎 Mai Mai.html"
+  },
+  {
+   "numero": 80,
+   "kanji": "午",
+   "kun": "Go",
+   "on": "Go",
+   "niveau": "N5",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/001-100 N5/080 午 Go Go.html"
+  },
+  {
+   "numero": 81,
+   "kanji": "半",
+   "kun": "Nakaba",
+   "on": "Han",
+   "niveau": "N5",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/001-100 N5/081 半 Nakaba Han.html"
+  },
+  {
+   "numero": 82,
+   "kanji": "万",
+   "kun": "Man",
+   "on": "Man",
+   "niveau": "N5",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/001-100 N5/082 万 Man Man.html"
+  },
+  {
+   "numero": 83,
+   "kanji": "雨",
+   "kun": "Ame",
+   "on": "U",
+   "niveau": "N5",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/001-100 N5/083 雨 Ame U.html"
+  },
+  {
+   "numero": 84,
+   "kanji": "白",
+   "kun": "Shiroi",
+   "on": "Haku",
+   "niveau": "N5",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/001-100 N5/084 白 Shiroi Haku.html"
+  },
+  {
+   "numero": 85,
+   "kanji": "力",
+   "kun": "Chikara",
+   "on": "Ryoku",
+   "niveau": "N5",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/001-100 N5/085 力 Chikara Ryoku.html"
+  },
+  {
+   "numero": 86,
+   "kanji": "自",
+   "kun": "Mizukara",
+   "on": "Ji",
+   "niveau": "N5",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/001-100 N5/086 自 Mizukara Ji.html"
+  },
+  {
+   "numero": 87,
+   "kanji": "体",
+   "kun": "Karada",
+   "on": "Tai",
+   "niveau": "N5",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/001-100 N5/087 体 Karada Tai.html"
+  },
+  {
+   "numero": 88,
+   "kanji": "思",
+   "kun": "Omou",
+   "on": "Shi",
+   "niveau": "N5",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/001-100 N5/088 思 Omou Shi.html"
+  },
+  {
+   "numero": 89,
+   "kanji": "言",
+   "kun": "Iu",
+   "on": "Gen",
+   "niveau": "N5",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/001-100 N5/089 言 Iu Gen.html"
+  },
+  {
+   "numero": 90,
+   "kanji": "聞",
+   "kun": "Kiku",
+   "on": "Bun",
+   "niveau": "N5",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/001-100 N5/090 聞 Kiku Bun.html"
+  },
+  {
+   "numero": 91,
+   "kanji": "帰",
+   "kun": "Kaeru",
+   "on": "Ki",
+   "niveau": "N5",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/001-100 N5/091 帰 Kaeru Ki.html"
+  },
+  {
+   "numero": 92,
+   "kanji": "本",
+   "kun": "Moto",
+   "on": "Hon",
+   "niveau": "N5",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/001-100 N5/092 本 Moto Hon.html"
+  },
+  {
+   "numero": 93,
+   "kanji": "東",
+   "kun": "Higashi",
+   "on": "Tou",
+   "niveau": "N5",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/001-100 N5/093 東 Higashi Tou.html"
+  },
+  {
+   "numero": 94,
+   "kanji": "京",
+   "kun": "Miyako",
+   "on": "Kyou",
+   "niveau": "N5",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/001-100 N5/094 京 Miyako Kyou.html"
+  },
+  {
+   "numero": 95,
+   "kanji": "北",
+   "kun": "Kita",
+   "on": "Hoku",
+   "niveau": "N5",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/001-100 N5/095 北 Kita Hoku.html"
+  },
+  {
+   "numero": 96,
+   "kanji": "南",
+   "kun": "Minami",
+   "on": "Nan",
+   "niveau": "N5",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/001-100 N5/096 南 Minami Nan.html"
+  },
+  {
+   "numero": 97,
+   "kanji": "西",
+   "kun": "Nishi",
+   "on": "Sei",
+   "niveau": "N5",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/001-100 N5/097 西 Nishi Sei.html"
+  },
+  {
+   "numero": 98,
+   "kanji": "外",
+   "kun": "Soto",
+   "on": "Gai",
+   "niveau": "N5",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/001-100 N5/098 外 Soto Gai.html"
+  },
+  {
+   "numero": 99,
+   "kanji": "間",
+   "kun": "Aida",
+   "on": "Kan",
+   "niveau": "N5",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/001-100 N5/099 間 Aida Kan.html"
+  },
+  {
+   "numero": 100,
+   "kanji": "社",
+   "kun": "Yashiro",
+   "on": "Sha",
+   "niveau": "N5",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/001-100 N5/100 社 Yashiro Sha.html"
+  },
+  {
+   "numero": 101,
+   "kanji": "焼",
+   "kun": "Yaku",
+   "on": "Shou",
+   "niveau": "N4",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/101-200 N4/101 焼 Yaku Shou.html"
+  },
+  {
+   "numero": 102,
+   "kanji": "揚",
+   "kun": "Ageru",
+   "on": "You",
+   "niveau": "N4",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/101-200 N4/102 揚 Ageru You.html"
+  },
+  {
+   "numero": 103,
+   "kanji": "煮",
+   "kun": "Niru",
+   "on": "Sha",
+   "niveau": "N4",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/101-200 N4/103 煮 Niru Sha.html"
+  },
+  {
+   "numero": 104,
+   "kanji": "丼",
+   "kun": "Donburi",
+   "on": "Don",
+   "niveau": "N4",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/101-200 N4/104 丼 Donburi Don.html"
+  },
+  {
+   "numero": 105,
+   "kanji": "鮮",
+   "kun": "Azayaka",
+   "on": "Sen",
+   "niveau": "N4",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/101-200 N4/105 鮮 Azayaka Sen.html"
+  },
+  {
+   "numero": 106,
+   "kanji": "麺",
+   "kun": "Men",
+   "on": "",
+   "niveau": "N4",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/101-200 N4/106 麺 Men.html"
+  },
+  {
+   "numero": 107,
+   "kanji": "玉",
+   "kun": "Tama",
+   "on": "Gyoku",
+   "niveau": "N4",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/101-200 N4/107 玉 Tama Gyoku.html"
+  },
+  {
+   "numero": 108,
+   "kanji": "替",
+   "kun": "Kae",
+   "on": "Tai",
+   "niveau": "N4",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/101-200 N4/108 替 Kae Tai.html"
+  },
+  {
+   "numero": 109,
+   "kanji": "止",
+   "kun": "Tomaru",
+   "on": "Shi",
+   "niveau": "N4",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/101-200 N4/109 止 Tomaru Shi.html"
+  },
+  {
+   "numero": 110,
+   "kanji": "危",
+   "kun": "Abunai",
+   "on": "Ki",
+   "niveau": "N4",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/101-200 N4/110 危 Abunai Ki.html"
+  },
+  {
+   "numero": 111,
+   "kanji": "険",
+   "kun": "Ken",
+   "on": "",
+   "niveau": "N4",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/101-200 N4/111 険 Ken.html"
+  },
+  {
+   "numero": 112,
+   "kanji": "禁",
+   "kun": "Kin",
+   "on": "",
+   "niveau": "N4",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/101-200 N4/112 禁 Kin.html"
+  },
+  {
+   "numero": 113,
+   "kanji": "注",
+   "kun": "Sosogu",
+   "on": "Chuu",
+   "niveau": "N4",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/101-200 N4/113 注 Sosogu Chuu.html"
+  },
+  {
+   "numero": 114,
+   "kanji": "意",
+   "kun": "I",
+   "on": "",
+   "niveau": "N4",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/101-200 N4/114 意 I.html"
+  },
+  {
+   "numero": 115,
+   "kanji": "手",
+   "kun": "Te",
+   "on": "Shu",
+   "niveau": "N4",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/101-200 N4/115 手 Te Shu.html"
+  },
+  {
+   "numero": 116,
+   "kanji": "洗",
+   "kun": "Arau",
+   "on": "Sen",
+   "niveau": "N4",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/101-200 N4/116 洗 Arau Sen.html"
+  },
+  {
+   "numero": 117,
+   "kanji": "茶",
+   "kun": "Cha",
+   "on": "",
+   "niveau": "N4",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/101-200 N4/117 茶 Cha.html"
+  },
+  {
+   "numero": 118,
+   "kanji": "押",
+   "kun": "Osu",
+   "on": "Ou",
+   "niveau": "N4",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/101-200 N4/118 押 Osu Ou.html"
+  },
+  {
+   "numero": 119,
+   "kanji": "引",
+   "kun": "Hiku",
+   "on": "In",
+   "niveau": "N4",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/101-200 N4/119 引 Hiku In.html"
+  },
+  {
+   "numero": 120,
+   "kanji": "家",
+   "kun": "Ie",
+   "on": "Ka",
+   "niveau": "N4",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/101-200 N4/120 家 Ie Ka.html"
+  },
+  {
+   "numero": 121,
+   "kanji": "室",
+   "kun": "Shitsu",
+   "on": "",
+   "niveau": "N4",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/101-200 N4/121 室 Shitsu.html"
+  },
+  {
+   "numero": 122,
+   "kanji": "費",
+   "kun": "Hi",
+   "on": "",
+   "niveau": "N4",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/101-200 N4/122 費 Hi.html"
+  },
+  {
+   "numero": 123,
+   "kanji": "約",
+   "kun": "Yaku",
+   "on": "",
+   "niveau": "N4",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/101-200 N4/123 約 Yaku.html"
+  },
+  {
+   "numero": 124,
+   "kanji": "部",
+   "kun": "Bu",
+   "on": "",
+   "niveau": "N4",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/101-200 N4/124 部 Bu.html"
+  },
+  {
+   "numero": 125,
+   "kanji": "文",
+   "kun": "Fumi",
+   "on": "Bun",
+   "niveau": "N4",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/101-200 N4/125 文 Fumi Bun.html"
+  },
+  {
+   "numero": 126,
+   "kanji": "物",
+   "kun": "Mono",
+   "on": "Butsu",
+   "niveau": "N4",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/101-200 N4/126 物 Mono Butsu.html"
+  },
+  {
+   "numero": 127,
+   "kanji": "形",
+   "kun": "Katachi",
+   "on": "Kei",
+   "niveau": "N4",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/101-200 N4/127 形 Katachi Kei.html"
+  },
+  {
+   "numero": 128,
+   "kanji": "角",
+   "kun": "Kado",
+   "on": "Kaku",
+   "niveau": "N4",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/101-200 N4/128 角 Kado Kaku.html"
+  },
+  {
+   "numero": 129,
+   "kanji": "丸",
+   "kun": "Maru",
+   "on": "Gan",
+   "niveau": "N4",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/101-200 N4/129 丸 Maru Gan.html"
+  },
+  {
+   "numero": 130,
+   "kanji": "定",
+   "kun": "Tei",
+   "on": "Jou",
+   "niveau": "N4",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/101-200 N4/130 定 Tei Jou.html"
+  },
+  {
+   "numero": 131,
+   "kanji": "牛",
+   "kun": "Ushi",
+   "on": "Gyuu",
+   "niveau": "N4",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/101-200 N4/131 牛 Ushi Gyuu.html"
+  },
+  {
+   "numero": 132,
+   "kanji": "豚",
+   "kun": "Buta",
+   "on": "Ton",
+   "niveau": "N4",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/101-200 N4/132 豚 Buta Ton.html"
+  },
+  {
+   "numero": 133,
+   "kanji": "鶏",
+   "kun": "Niwatori",
+   "on": "Kei",
+   "niveau": "N4",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/101-200 N4/133 鶏 Niwatori Kei.html"
+  },
+  {
+   "numero": 134,
+   "kanji": "魚",
+   "kun": "Sakana",
+   "on": "Gyo",
+   "niveau": "N4",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/101-200 N4/134 魚 Sakana Gyo.html"
+  },
+  {
+   "numero": 135,
+   "kanji": "鍋",
+   "kun": "Nabe",
+   "on": "",
+   "niveau": "N4",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/101-200 N4/135 鍋 Nabe.html"
+  },
+  {
+   "numero": 136,
+   "kanji": "巻",
+   "kun": "Maku",
+   "on": "Kan",
+   "niveau": "N4",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/101-200 N4/136 巻 Maku Kan.html"
+  },
+  {
+   "numero": 137,
+   "kanji": "刺",
+   "kun": "Sasu",
+   "on": "Shi",
+   "niveau": "N4",
+   "fiche": "Memory/Japanese/Lessons/KanjiCards/101-200 N4/137 刺 Sasu Shi.html"
+  }
+ ]
+}
